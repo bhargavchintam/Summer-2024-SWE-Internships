@@ -21,6 +21,7 @@
 
 | Company | Description | Investors | Title | Status | Added On |
 | ------- | ------------| ----------| ----- | ------ |--------- |
+| BlackBerry | Brex provides financial tools for startups to succeed. Raised $1 billion, valued at $12 billion. | <p align="center" dir="auto"><a target="_blank" rel="noopener noreferrer" href="./imgs/sequoia.png"><img src="./imgs/sequoia.png" alt="sequoia.png" width="75" style="max-width: 100%;"></a><br><a target="_blank" rel="noopener noreferrer" href="./imgs/yc.png"><img src="./imgs/yc.png" alt="yc.png" width="75" style="max-width: 100%;"></a><br></p> | [DevOps Engineering Student - 4 Month Summer Term](https://bb.wd3.myworkdayjobs.com/Student/job/Irvine-California/DevOps-Engineering-Student---4-Month-Summer-Term_20230416-2) | ✅ | July 19, 2023 |
 | Northrop Grumman | Company mission: Provide advanced aerospace and defense technology.Financials: Revenue $36.4B, market cap $51.4B. | <p align="center" dir="auto"></p> | [2024 Systems Engineer Intern - Redondo Beach, CA](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-Redondo-Beach/XMLNAME-2024-Systems-Engineer-Intern---Redondo-Beach--CA_R10119892-1) | ✅ | July 18, 2023 |
 | Motional | Motional: Developing self-driving systems. Series E, $3.2B valuation, $900M raised. | <p align="center" dir="auto"></p> | [C++ Software Intern, Remote Vehicle Assistance Frontend](https://motional.com/open-positions/#/5668815003?gh_jid=5668815003) | ✅ | July 18, 2023 |
 | HackerRank | HackerRank helps companies hire software engineers; Series D, $1.7B valuation, $240M raised. | <p align="center" dir="auto"><a target="_blank" rel="noopener noreferrer" href="./imgs/tiger-global.png"><img src="./imgs/tiger-global.png" alt="tiger-global.png" width="75" style="max-width: 100%;"></a><br><a target="_blank" rel="noopener noreferrer" href="./imgs/sequoia.png"><img src="./imgs/sequoia.png" alt="sequoia.png" width="75" style="max-width: 100%;"></a><br></p> | [Solutions Engineer Intern](https://boards.greenhouse.io/hackerrank/jobs/5134940?gh_jid=5134940) | ✅ | July 17, 2023 |
@@ -73,7 +74,7 @@
 | BorgWarner | BorgWarner: Powertrain solutions for sustainable mobility. 2021 revenue: $13.6 billion. | <p align="center" dir="auto"></p> | [Global Advanced Manufacturing Engineering Professional Internship (m/f/d)](https://borgwarner.wd5.myworkdayjobs.com/BorgWarner_Careers/job/Viana-do-Castelo-I---Portugal/Global-Advanced-Manufacturing-Engineering-Professional-Internship--m-f-d-_R2023-0351) | ✅ | July 02, 2023 |
 | BorgWarner | BorgWarner: Powertrain solutions for sustainable mobility. 2021 revenue: $13.6 billion. | <p align="center" dir="auto"></p> | [Global Advanced Manufacturing Engineering Professional Internship (m/f/d)](https://borgwarner.wd5.myworkdayjobs.com/BorgWarner_Careers/job/Viana-do-Castelo-I---Portugal/Global-Advanced-Manufacturing-Engineering-Professional-Internship--m-f-d-_R2023-0640) | ✅ | July 02, 2023 |
 | BorgWarner | BorgWarner: Powertrain solutions for sustainable mobility. 2021 revenue: $13.6 billion. | <p align="center" dir="auto"></p> | [Electrical Engineer Intern](https://borgwarner.wd5.myworkdayjobs.com/BorgWarner_Careers/job/Kokomo-Technical-Center---Indiana---USA/Electrical-Engineer-Intern_R2022-5339) | ✅ | July 02, 2023 |
-| BlackBerry | Brex provides financial tools for startups to succeed. Raised $1 billion, valued at $12 billion. | <p align="center" dir="auto"><a target="_blank" rel="noopener noreferrer" href="./imgs/sequoia.png"><img src="./imgs/sequoia.png" alt="sequoia.png" width="75" style="max-width: 100%;"></a><br><a target="_blank" rel="noopener noreferrer" href="./imgs/yc.png"><img src="./imgs/yc.png" alt="yc.png" width="75" style="max-width: 100%;"></a><br></p> | [DevOps Engineering Student - 4 Month Summer Term](https://bb.wd3.myworkdayjobs.com/Student/job/Portland-Oregon/DevOps-Engineering-Student---4-Month-Summer-Term_20230416-2) | ✅ | July 02, 2023 |
+| BlackBerry | Brex provides financial tools for startups to succeed. Raised $1 billion, valued at $12 billion. | <p align="center" dir="auto"><a target="_blank" rel="noopener noreferrer" href="./imgs/sequoia.png"><img src="./imgs/sequoia.png" alt="sequoia.png" width="75" style="max-width: 100%;"></a><br><a target="_blank" rel="noopener noreferrer" href="./imgs/yc.png"><img src="./imgs/yc.png" alt="yc.png" width="75" style="max-width: 100%;"></a><br></p> | [DevOps Engineering Student - 4 Month Summer Term](https://bb.wd3.myworkdayjobs.com/Student/job/Portland-Oregon/DevOps-Engineering-Student---4-Month-Summer-Term_20230416-2) | ❌ | July 02, 2023 |
 | BlackBerry | Brex provides financial tools for startups to succeed. Raised $1 billion, valued at $12 billion. | <p align="center" dir="auto"><a target="_blank" rel="noopener noreferrer" href="./imgs/sequoia.png"><img src="./imgs/sequoia.png" alt="sequoia.png" width="75" style="max-width: 100%;"></a><br><a target="_blank" rel="noopener noreferrer" href="./imgs/yc.png"><img src="./imgs/yc.png" alt="yc.png" width="75" style="max-width: 100%;"></a><br></p> | [DevOps Engineering Student - 4 Month Summer Term](https://bb.wd3.myworkdayjobs.com/Student/job/Portland-Oregon/DevOps-Engineering-Student---4-Month-Summer-Term_20230415-2) | ✅ | July 02, 2023 |
 | Neuralink | Neuralink aims to develop brain-computer interfaces. Series C funding, $10 billion valuation, $1 billion raised. | <p align="center" dir="auto"><a target="_blank" rel="noopener noreferrer" href="./imgs/google-ventures.png"><img src="./imgs/google-ventures.png" alt="google-ventures.png" width="75" style="max-width: 100%;"></a><br></p> | [Software Engineer Intern Implant Team](https://boards.greenhouse.io/neuralink/jobs/5469297003) | ✅ | July 01, 2023 |
 | Epic Games | Epic Games: Leading game developer and publisher.Financials: $3 billion raised, $15 billion valuation. | <p align="center" dir="auto"><a target="_blank" rel="noopener noreferrer" href="./imgs/kkr.png"><img src="./imgs/kkr.png" alt="kkr.png" width="75" style="max-width: 100%;"></a><br></p> | [Research and Development - PhD Internships](https://boards.greenhouse.io/epicgames/jobs/4490758004) | ✅ | July 01, 2023 |
@@ -98,8 +99,8 @@
 | The Block | The Block: Leading crypto media platform. Raised $200M in Series C. | <p align="center" dir="auto"><a target="_blank" rel="noopener noreferrer" href="./imgs/google-ventures.png"><img src="./imgs/google-ventures.png" alt="google-ventures.png" width="75" style="max-width: 100%;"></a><br></p> | [Research Intern - Data](https://jobs.lever.co/theblockcrypto/00ecc02c-b30e-4d1b-a02b-2f400e53e66a) | ✅ | June 21, 2023 |
 | Gate.io | Gate.io's mission: Easy and accessible crypto trading for all.Financials: $100M Series B, $200M raised. | <p align="center" dir="auto"><a target="_blank" rel="noopener noreferrer" href="./imgs/sequoia.png"><img src="./imgs/sequoia.png" alt="sequoia.png" width="75" style="max-width: 100%;"></a><br></p> | [Market research Intern](https://jobs.lever.co/gate.io/cc590402-eb67-4e2b-9c67-308d2473cd4a) | ✅ | June 21, 2023 |
 | CertiK | Certif's mission is to secure the blockchain ecosystem. Raised $88M, valued at $500M. | <p align="center" dir="auto"><a target="_blank" rel="noopener noreferrer" href="./imgs/tiger-global.png"><img src="./imgs/tiger-global.png" alt="tiger-global.png" width="75" style="max-width: 100%;"></a><br><a target="_blank" rel="noopener noreferrer" href="./imgs/sequoia.png"><img src="./imgs/sequoia.png" alt="sequoia.png" width="75" style="max-width: 100%;"></a><br></p> | [Security Research Internship](https://jobs.lever.co/certik/148afcf8-106b-42fa-a516-6bb8f1184e33) | ✅ | June 21, 2023 |
-| CertiK | Certif's mission is to secure the blockchain ecosystem. Raised $88M, valued at $500M. | <p align="center" dir="auto"><a target="_blank" rel="noopener noreferrer" href="./imgs/tiger-global.png"><img src="./imgs/tiger-global.png" alt="tiger-global.png" width="75" style="max-width: 100%;"></a><br><a target="_blank" rel="noopener noreferrer" href="./imgs/sequoia.png"><img src="./imgs/sequoia.png" alt="sequoia.png" width="75" style="max-width: 100%;"></a><br></p> | [Platform Engineering Intern](https://jobs.lever.co/certik/095fdcff-99e8-408d-bb8a-e638e44d0b40) | ✅ | June 21, 2023 |
 | CertiK | Certif's mission is to secure the blockchain ecosystem. Raised $88M, valued at $500M. | <p align="center" dir="auto"><a target="_blank" rel="noopener noreferrer" href="./imgs/tiger-global.png"><img src="./imgs/tiger-global.png" alt="tiger-global.png" width="75" style="max-width: 100%;"></a><br><a target="_blank" rel="noopener noreferrer" href="./imgs/sequoia.png"><img src="./imgs/sequoia.png" alt="sequoia.png" width="75" style="max-width: 100%;"></a><br></p> | [Research Analyst Intern](https://jobs.lever.co/certik/277fc381-3f3f-491c-879f-be48850e60ff) | ❌ | June 21, 2023 |
+| CertiK | Certif's mission is to secure the blockchain ecosystem. Raised $88M, valued at $500M. | <p align="center" dir="auto"><a target="_blank" rel="noopener noreferrer" href="./imgs/tiger-global.png"><img src="./imgs/tiger-global.png" alt="tiger-global.png" width="75" style="max-width: 100%;"></a><br><a target="_blank" rel="noopener noreferrer" href="./imgs/sequoia.png"><img src="./imgs/sequoia.png" alt="sequoia.png" width="75" style="max-width: 100%;"></a><br></p> | [Platform Engineering Intern](https://jobs.lever.co/certik/095fdcff-99e8-408d-bb8a-e638e44d0b40) | ✅ | June 21, 2023 |
 | CertiK | Certif's mission is to secure the blockchain ecosystem. Raised $88M, valued at $500M. | <p align="center" dir="auto"><a target="_blank" rel="noopener noreferrer" href="./imgs/tiger-global.png"><img src="./imgs/tiger-global.png" alt="tiger-global.png" width="75" style="max-width: 100%;"></a><br><a target="_blank" rel="noopener noreferrer" href="./imgs/sequoia.png"><img src="./imgs/sequoia.png" alt="sequoia.png" width="75" style="max-width: 100%;"></a><br></p> | [Full Stack Internship - Matrix](https://jobs.lever.co/certik/ca67aab6-9b8b-4c2f-ad80-ff5855292f48) | ✅ | June 21, 2023 |
 | The Boring Company | The Boring Company aims to revolutionize tunneling. $675M raised, valued at $5.7B. | <p align="center" dir="auto"><a target="_blank" rel="noopener noreferrer" href="./imgs/google-ventures.png"><img src="./imgs/google-ventures.png" alt="google-ventures.png" width="75" style="max-width: 100%;"></a><br><a target="_blank" rel="noopener noreferrer" href="./imgs/kleiner-perkins.png"><img src="./imgs/kleiner-perkins.png" alt="kleiner-perkins.png" width="75" style="max-width: 100%;"></a><br></p> | [Civil Engineering Intern](https://jobs.lever.co/boringcompany/f6d53f8a-d4da-4212-8a40-3f724ba07b1f) | ✅ | June 21, 2023 |
 | The Boring Company | The Boring Company aims to revolutionize tunneling. $675M raised, valued at $5.7B. | <p align="center" dir="auto"><a target="_blank" rel="noopener noreferrer" href="./imgs/google-ventures.png"><img src="./imgs/google-ventures.png" alt="google-ventures.png" width="75" style="max-width: 100%;"></a><br><a target="_blank" rel="noopener noreferrer" href="./imgs/kleiner-perkins.png"><img src="./imgs/kleiner-perkins.png" alt="kleiner-perkins.png" width="75" style="max-width: 100%;"></a><br></p> | [Integration Engineering Intern](https://jobs.lever.co/boringcompany/1c1ee776-cbf4-4cf0-bfb0-a446ed89ee29) | ✅ | June 21, 2023 |
@@ -116,8 +117,8 @@
 | Upstart | Upstart: AI lending platform. Raised $500M, valued at $1B. | <p align="center" dir="auto"><a target="_blank" rel="noopener noreferrer" href="./imgs/kleiner-perkins.png"><img src="./imgs/kleiner-perkins.png" alt="kleiner-perkins.png" width="75" style="max-width: 100%;"></a><br><a target="_blank" rel="noopener noreferrer" href="./imgs/sequoia.png"><img src="./imgs/sequoia.png" alt="sequoia.png" width="75" style="max-width: 100%;"></a><br></p> | [Research Scientist Internship](https://www.upstart.com/careers/5051193/apply?gh_jid=5051193) | ❌ | June 21, 2023 |
 | Faire | Faire: Revolutionizing B2B e-commerce for small businesses.$1B funding, $12B valuation. | <p align="center" dir="auto"><a target="_blank" rel="noopener noreferrer" href="./imgs/bain-capital-ventures.png"><img src="./imgs/bain-capital-ventures.png" alt="bain-capital-ventures.png" width="75" style="max-width: 100%;"></a><br><a target="_blank" rel="noopener noreferrer" href="./imgs/tiger-global.png"><img src="./imgs/tiger-global.png" alt="tiger-global.png" width="75" style="max-width: 100%;"></a><br><a target="_blank" rel="noopener noreferrer" href="./imgs/sequoia.png"><img src="./imgs/sequoia.png" alt="sequoia.png" width="75" style="max-width: 100%;"></a><br></p> | [Data Scientist - Intern](https://boards.greenhouse.io/faire/jobs/6683906002?gh_jid=6683906002) | ✅ | June 21, 2023 |
 | Absci | Absci's mission is to engineer cells for molecule production. The company raised $100 million in Series B funding, with a valuation of $1.2 billion and total funding of $150 million. | <p align="center" dir="auto"><a target="_blank" rel="noopener noreferrer" href="./imgs/google-ventures.png"><img src="./imgs/google-ventures.png" alt="google-ventures.png" width="75" style="max-width: 100%;"></a><br></p> | [Research Intern, Artificial Intelligence](https://www.absci.com/careers/roles/?gh_jid=5406094003) | ✅ | June 21, 2023 |
-| Capstone | Capstone Investment Advisors: Venture capital firm supporting startups. $1 billion raised, 100+ investments. | <p align="center" dir="auto"></p> | [2024 Summer Internship - Software Engineer - NYC](https://boards.greenhouse.io/capstoneinvestmentadvisors/jobs/6784275002) | ✅ | June 21, 2023 |
 | Capstone | Capstone Investment Advisors: Venture capital firm supporting startups. $1 billion raised, 100+ investments. | <p align="center" dir="auto"></p> | [2024 Summer Internship - Quantitative Risk - NYC](https://boards.greenhouse.io/capstoneinvestmentadvisors/jobs/6787732002) | ✅ | June 21, 2023 |
+| Capstone | Capstone Investment Advisors: Venture capital firm supporting startups. $1 billion raised, 100+ investments. | <p align="center" dir="auto"></p> | [2024 Summer Internship - Software Engineer - NYC](https://boards.greenhouse.io/capstoneinvestmentadvisors/jobs/6784275002) | ✅ | June 21, 2023 |
 |  | N/A | N/A | N/A | 🔒 | N/A |
 | 1Password | 1Password: Enhancing online security; $425M raised, $4B valuation. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
 | 23andMe | 23andMe empowers people with genetic information. Series H, $3.5B valuation, $850M raised. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
@@ -128,10 +129,17 @@
 | A10 | A10 Networks: Protecting and optimizing data center applications globally.  Series F, \$1.7B valuation, \$400M raised. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
 | ABL Space Systems | N/A | N/A | N/A | 🔒 | N/A |
 | AIG | AIG's mission is to protect customers from financial risks. AIG has raised $475 million in a Series E funding round, with a valuation of $11.1 billion. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
+| AIP Connect | N/A | N/A | N/A | 🔒 | N/A |
 | AKASA | Akasa: Developing carbon-neutral air conditioner.  Series B: $200M raised, $1B valuation. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
+| AMAROK | N/A | N/A | N/A | 🔒 | N/A |
 | AMP Robotics | Amp Robotics: Automating recycling for a sustainable future.  $100M funding, $1B valuation. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
 | AMP Robotics | N/A | N/A | N/A | 🔒 | N/A |
+| AMT Engineering | N/A | N/A | N/A | 🔒 | N/A |
+| AON3D | N/A | N/A | N/A | 🔒 | N/A |
+| APOLLO Insurance | N/A | N/A | N/A | 🔒 | N/A |
 | AQR | N/A | N/A | N/A | 🔒 | N/A |
+| ASAPP | N/A | N/A | N/A | 🔒 | N/A |
+| AUDIENCEX | N/A | N/A | N/A | 🔒 | N/A |
 | Aalto | Aalto develops AI solutions for healthcare problems.  Raised $200M at $1B valuation. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
 | Aave | N/A | N/A | N/A | 🔒 | N/A |
 | Abarca Health | N/A | N/A | N/A | 🔒 | N/A |
@@ -178,37 +186,74 @@
 | Affinitiv | N/A | N/A | N/A | 🔒 | N/A |
 | Affinity.co | Affinity: Personalized AI search engine. Series A, $100M raised. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
 | Affirm | Affirm: Making credit accessible and affordable.  $1.5B funding, $2B valuation. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
+| Afresh | N/A | N/A | N/A | 🔒 | N/A |
+| Age of Learning | N/A | N/A | N/A | 🔒 | N/A |
+| AgentSync | N/A | N/A | N/A | 🔒 | N/A |
+| Agero | N/A | N/A | N/A | 🔒 | N/A |
+| Agiloft | N/A | N/A | N/A | 🔒 | N/A |
 | Agot | Ago.ai aims to democratize AI.  Raised $100 million in funding. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
+| Agtonomy | N/A | N/A | N/A | 🔒 | N/A |
+| Aigen | N/A | N/A | N/A | 🔒 | N/A |
 | AirGarage | AirGarage connects drivers with available parking spaces.  Series C funding, valued at $1 billion, raised over $100 million. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
 | Airbase | Airbase automates spend processes for businesses.  Raised $100M from top investors. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
+| Airbnb | N/A | N/A | N/A | 🔒 | N/A |
 | Airbyte | Airbyte: Open-source data integration platform.  Series B: $100M raised, $1.1B valuation. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
 | Aircall | Aircall's mission: Improve business phone calls. Financials: $200M funding, $1B valuation. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
+| Airkit | N/A | N/A | N/A | 🔒 | N/A |
+| Airlines Reporting Corporation | N/A | N/A | N/A | 🔒 | N/A |
+| Airplane | N/A | N/A | N/A | 🔒 | N/A |
+| Airspeed | N/A | N/A | N/A | 🔒 | N/A |
 | Airtable | Airtable's mission is to democratize software development.  Funding: $700M, Valuation: $10B. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
+| Airwallex | N/A | N/A | N/A | 🔒 | N/A |
+| Aizon | N/A | N/A | N/A | 🔒 | N/A |
 | Akuna Capital | Akuna Capital: Global quantitative trading firm using cutting-edge technology. Funding: Over $1 billion raised. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
 | Alamar Biosciences | Alamar Biosciences: Developing targeted cancer therapies.  Raised $100 million in funding. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
+| Alation, Inc. | N/A | N/A | N/A | 🔒 | N/A |
 | Albert | Albert uses AI to improve customer service.  Series C, $1 billion valuation, $100 million raised. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
 | Alchemy | Alchemy provides blockchain infrastructure for decentralized applications.  Series C, $10.2B valuation, $350M raised. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
 | Alcon | Alcon's mission: Solve global eye health challenges. Financials: $6.7B funding, $75B valuation. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
+| Aledade | N/A | N/A | N/A | 🔒 | N/A |
 | Aleo | Aleo: Decentralized identity platform giving users control over data. Series B funding, $100 million valuation, $20 million raised. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
 | Algolia | Algolia: AI-powered search engine making information accessible.  Funding: $150M, $2.5B valuation. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
+| Alkymi | N/A | N/A | N/A | 🔒 | N/A |
 | Allegion | Allegion's mission: Creating a safer world. Financials: Fourth funding round, $1 billion raised. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
+| Alloy | N/A | N/A | N/A | 🔒 | N/A |
 | Alloy Automation | Run Alloy's mission: Enable previously impossible applications. Financials: Backed by leading investors. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
+| Alloy.ai | N/A | N/A | N/A | 🔒 | N/A |
 | Alluxio | Alluxio accelerates data-intensive applications on hybrid-clouds.  $100M Series D, $1.6B valuation. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
+| Alma | N/A | N/A | N/A | 🔒 | N/A |
+| Almanac | N/A | N/A | N/A | 🔒 | N/A |
 | Aloft Appraisal | Aloft aims to create affordable and stylish AR glasses.  $100 million raised from top investors. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
 | Alpaca | Alpaca's mission: democratize financial markets. Financials: $200 million raised from investors. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
+| AlphaFlow | N/A | N/A | N/A | 🔒 | N/A |
+| AlphaGrep Securities | N/A | N/A | N/A | 🔒 | N/A |
 | AlphaSights | AlphaSights provides business intelligence to improve decision-making.  Series E funding: $400 million, valuation: $4.5 billion. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
+| Alpine Investors | N/A | N/A | N/A | 🔒 | N/A |
+| Altana AI | N/A | N/A | N/A | 🔒 | N/A |
 | Alteryx | Alteryx: Democratizing analytics; raised over $500 million. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
 | Altimate AI | Altimate: AI platform for personalized customer experiences.  $60M raised from Sequoia Capital and Kleiner Perkins. | <p align="center" dir="auto"><a target="_blank" rel="noopener noreferrer" href="./imgs/kleiner-perkins.png"><img src="./imgs/kleiner-perkins.png" alt="kleiner-perkins.png" width="75" style="max-width: 100%;"></a><br><a target="_blank" rel="noopener noreferrer" href="./imgs/sequoia.png"><img src="./imgs/sequoia.png" alt="sequoia.png" width="75" style="max-width: 100%;"></a><br></p> | N/A | 🔒 | N/A |
+| Alto Pharmacy | N/A | N/A | N/A | 🔒 | N/A |
 | Amadeus | Amadeus: Simplifying travel through innovative technology. Raised $2.5B, valued at $22B. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
 | Amazon | N/A | N/A | N/A | 🔒 | N/A |
 | Ambi Robotics | Ambi Robotics develops advanced AI solutions for industrial automation.  Raised $100M in Series B funding, valued at $1B. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
 | Ambience Healthcare | Ambience Healthcare aims to revolutionize chronic condition management. Series B funding, $1.2 billion valuation, $100 million raised. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
+| Ambient AI | N/A | N/A | N/A | 🔒 | N/A |
+| Ambiq | N/A | N/A | N/A | 🔒 | N/A |
 | American Century Investments | American Century Investments delivers investment excellence to help clients achieve financial goals. $2.2 trillion AUM. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
 | American Family Insurance | Amica Financial Group provides property and casualty insurance. Series E funding, $1.5 billion valuation, $350 million raised. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
+| Amino, Inc. | N/A | N/A | N/A | 🔒 | N/A |
+| Amperity | N/A | N/A | N/A | 🔒 | N/A |
+| Ampla | N/A | N/A | N/A | 🔒 | N/A |
+| Amplitude | N/A | N/A | N/A | 🔒 | N/A |
+| Ampush | N/A | N/A | N/A | 🔒 | N/A |
+| Anaconda | N/A | N/A | N/A | 🔒 | N/A |
 | Anchorage Digital | Anchorage: Making digital assets accessible to institutions.  $350M funding, $3B valuation. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
+| Andela | N/A | N/A | N/A | 🔒 | N/A |
 | Anduril Industries | Anduril develops AI-powered defense technology.  Series D funding, $2 billion raised. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
+| Angi | N/A | N/A | N/A | 🔒 | N/A |
 | Angle Labs | Angle Labs aims to revolutionize investing.  Series A funding round. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
 | Angle Labs | Angle Labs aims to democratize global financial access.  Venture-backed with top investors. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
+| Ansira | N/A | N/A | N/A | 🔒 | N/A |
 | Anthropic | Anthropic aims to solve existential risks.  Raised $240 million in funding. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
 | Antler | Antler invests in and launches new tech companies globally. Series C, $1.3B valuation, $245M raised. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
 | AnyRoad | AnyRoad: Revolutionizing transportation with self-driving trucks.  Venture-backed with $100 million raised. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
@@ -218,50 +263,111 @@
 | Apollo | ApollographQL aims to make GraphQL the web's data fetching standard. Series C funding, $1.1 billion valuation, $31.5 million raised. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
 | Apollo.io | Apollo.io helps sales and marketing teams connect with prospects.  $100M funding, $1B valuation. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
 | AppLovin | AppLovin: Mobile ad platform for app developers.  $1B funding, $15B valuation. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
+| AppOmni | N/A | N/A | N/A | 🔒 | N/A |
+| Appcues | N/A | N/A | N/A | 🔒 | N/A |
+| Appfolio | N/A | N/A | N/A | 🔒 | N/A |
 | Appian Corporation | Appian enables low-code development for businesses.  $1 billion funding, $10 billion valuation. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
 | Applied Intuition | Applied Intuition's mission is to deploy autonomous vehicles for safer roads. The company is in Series D funding with a valuation of $2.3 billion and raised over $200 million. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
+| Applied Materials | N/A | N/A | N/A | 🔒 | N/A |
+| ApplyBoard | N/A | N/A | N/A | 🔒 | N/A |
+| AptDeco | N/A | N/A | N/A | 🔒 | N/A |
 | Aptos | Aptos Labs: Decentralized finance for all.  $200M Series B funding. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
 | Aquatic Capital Management | Aquatic Capital Management: Investing in AI startups. Raised $100 million. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
 | Arc Boats | Arc Boats: Autonomous electric boats for accessible, sustainable boating.  $60M raised from top investors. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
+| Arc Technologies | N/A | N/A | N/A | 🔒 | N/A |
+| Arcadia | N/A | N/A | N/A | 🔒 | N/A |
+| Arcadia | N/A | N/A | N/A | 🔒 | N/A |
+| Arcellx | N/A | N/A | N/A | 🔒 | N/A |
+| Archive | N/A | N/A | N/A | 🔒 | N/A |
+| Arctic Wolf | N/A | N/A | N/A | 🔒 | N/A |
+| Aritzia | N/A | N/A | N/A | 🔒 | N/A |
+| Arkestro | N/A | N/A | N/A | 🔒 | N/A |
+| Arrive Logistics | N/A | N/A | N/A | 🔒 | N/A |
 | Arrowstreet Capital | Arrowstreet Capital aims to generate alpha through disciplined investing. Series C funding, \$1.5 billion valuation, \$1.2 billion raised. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
+| Arsenal Biosciences | N/A | N/A | N/A | 🔒 | N/A |
 | Art Processors | Art Processors: democratizing art; $100M funding, $1B valuation. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
+| Arta Finance | N/A | N/A | N/A | 🔒 | N/A |
+| Artemis | N/A | N/A | N/A | 🔒 | N/A |
 | Arthur AI | Arevo aims to revolutionize composite material manufacturing.  Series B funding: $75 million, valuation: $500 million, total raised: $110 million. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
+| Articulate | N/A | N/A | N/A | 🔒 | N/A |
+| Artisan Partners | N/A | N/A | N/A | 🔒 | N/A |
+| Artsy | N/A | N/A | N/A | 🔒 | N/A |
 | Asana | Asana's mission: Remove friction from work. Financials: $500M funding, $10B valuation. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
 | Asana Early Career Programs | Early Career Programs: Equitable tech careers, $100M funding, $1B valuation. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
+| Ascend.io | N/A | N/A | N/A | 🔒 | N/A |
+| Ashby | N/A | N/A | N/A | 🔒 | N/A |
 | Asimov | Asimov: Deep learning lab for self-driving cars.  Founded 2017, $100M funding, $1B valuation. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
+| Aspire | N/A | N/A | N/A | 🔒 | N/A |
+| Assembled | N/A | N/A | N/A | 🔒 | N/A |
 | AssemblyAI | AssemblyAI's mission: Revolutionizing information interaction with AI. Financials: Series B raised $135M, $1.3B valuation. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
+| Assurance Careers | N/A | N/A | N/A | 🔒 | N/A |
+| Assured | N/A | N/A | N/A | 🔒 | N/A |
+| Astra | N/A | N/A | N/A | 🔒 | N/A |
 | Astranis | Astranis: Providing affordable internet to underserved communities.  Funding: $67 million from investors. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
+| Asure | N/A | N/A | N/A | 🔒 | N/A |
+| At-Bay | N/A | N/A | N/A | 🔒 | N/A |
+| Athelas | N/A | N/A | N/A | 🔒 | N/A |
 | Athena Health | Athenahealth's mission is to improve healthcare. Funding: Series F, Valuation: $11 billion, Total raised: $6 billion. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
+| Atlan | N/A | N/A | N/A | 🔒 | N/A |
 | Atlassian | Atlassian's mission is to improve team collaboration.  Valued at $27.4 billion, raised $6.3 billion. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
 | Atlys | Atlys: Democratizing computational imaging.  Series A: $30 million raised. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
 | Atlys | ATLYS: AI company making information accessible; Series B, \$1B valuation, \$100M raised. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
 | AtoB | AtoB's mission: Enhancing automotive safety and enjoyment. Financials: $100M funding, $1B valuation. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
+| Atom Finance | N/A | N/A | N/A | 🔒 | N/A |
 | Atomic | Atomic: Next-gen cybersecurity solutions for businesses.  Venture-backed, $200M raised, $1B valuation. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
+| Atomwise | N/A | N/A | N/A | 🔒 | N/A |
 | Attabotics | Attabotics revolutionizes warehouses; efficient, sustainable.  Series C: $250M, $1.5B valuation. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
+| AttackIQ | N/A | N/A | N/A | 🔒 | N/A |
+| Attentive | N/A | N/A | N/A | 🔒 | N/A |
+| Attest | N/A | N/A | N/A | 🔒 | N/A |
+| Aucto | N/A | N/A | N/A | 🔒 | N/A |
+| Audigent | N/A | N/A | N/A | 🔒 | N/A |
+| Audius | N/A | N/A | N/A | 🔒 | N/A |
+| Augmedix | N/A | N/A | N/A | 🔒 | N/A |
+| Aurora Innovation | N/A | N/A | N/A | 🔒 | N/A |
+| Aurora Labs | N/A | N/A | N/A | 🔒 | N/A |
+| Aurora Solar | N/A | N/A | N/A | 🔒 | N/A |
+| Auterion | N/A | N/A | N/A | 🔒 | N/A |
 | Autify, Inc. | Autify's mission is to simplify software testing. The company has raised $200 million in funding. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
 | Autodesk | Autodesk's mission: Empower people to create a better world. Financials: $1B funding, $30B valuation. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
+| Autograph | N/A | N/A | N/A | 🔒 | N/A |
+| Ava Labs | N/A | N/A | N/A | 🔒 | N/A |
+| Avala | N/A | N/A | N/A | 🔒 | N/A |
 | Avantium | Avantium's mission: "make chemistry sustainable." Financials: Series C funding, $1 billion valuation, $200 million raised. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
+| Aven | N/A | N/A | N/A | 🔒 | N/A |
+| Aviatrix | N/A | N/A | N/A | 🔒 | N/A |
 | Avnet | Avnet's mission: Build a connected world. Financials: $28B revenue, $50B market cap. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
+| Awardco | N/A | N/A | N/A | 🔒 | N/A |
 | Aware | Aware's mission: Improve decision-making with AI.  Financials: $100M raised, $1B valuation. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
+| Away | N/A | N/A | N/A | 🔒 | N/A |
 | Axios | Axios: Inform and inspire through unbiased news. Raised $100M, valued at $1B. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
 | Axon | Axon's mission is to protect life.  $2.2 billion in funding. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
 | Axoni | Axoni's mission: Enhancing cybersecurity for critical infrastructure. Financials: $200M funding, $1B valuation. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
 | Azra Games | Azra Games aims to create immersive and engaging games. They have raised over $30M in a Series A funding round, with a valuation of $100M+. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
 | Aztec | Aztec: Decentralized secure communication platform.  Series B funding, $200 million valuation, $60 million raised. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
 | Aztec | Aztec: Building secure, scalable, and private blockchain infrastructure. $20M raised from top investors. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
+| B-Stock | N/A | N/A | N/A | 🔒 | N/A |
 | B12 | B12's mission: Revolutionize learning with AI. Financials: $100M funding, $1B valuation. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
 | BAO, Inc | Bao Inc. aims to solve global issues with AI.  Series C funding, valued at $10 billion, raised $1.5 billion. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
+| BARK | N/A | N/A | N/A | 🔒 | N/A |
 | BCG X | BCG Digital Ventures helps companies innovate digitally. Series E funding, $2.1 billion valuation, $430 million raised. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
 | BDG | BDG's mission is to make knowledge accessible and useful. The company has raised $130M in a Series C funding round, with a valuation of $1.2B. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
 | BETA Technologies | Beta is building a global remote workforce platform. (7 words) Series A funded, $10 million raised. (5 words) | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
 | BHG Financial | BHG Inc. aims to revolutionize healthcare with AI.  Series B funding, $100 million raised. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
 | BILL | Bill.com helps businesses get paid faster.  Raised $600M, valued at $5B. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
 | BMO | BMO Financial Group's mission: Help customers succeed financially. Financials: Net income $10.3 billion, market cap $60.8 billion. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
+| Babylon | N/A | N/A | N/A | 🔒 | N/A |
+| Backbone | N/A | N/A | N/A | 🔒 | N/A |
 | BackerKit | BackerKit: Crowdfunding platform for creators. Raised $1 billion. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
 | Badger Meter | Badger Meter: Global leader in smart water technology. Series D funding, $1 billion valuation, $100 million raised. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
+| Balbix | N/A | N/A | N/A | 🔒 | N/A |
 | Bandwidth | Bandwidth's mission: Connect businesses effectively and securely. Financials: $500M funding, $2B valuation. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
+| Barefoot | N/A | N/A | N/A | 🔒 | N/A |
 | Baseten | BaseTen: Developing cybersecurity solutions. Series B funding, \$1 billion valuation, \$100 million raised. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
 | Basis Technologies | Centro: AI solutions for businesses. Series C, $100M, $1B valuation. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
+| Baton (A Ryder Technology Lab) | N/A | N/A | N/A | 🔒 | N/A |
+| BaubleBar | N/A | N/A | N/A | 🔒 | N/A |
+| Bazaarvoice | N/A | N/A | N/A | 🔒 | N/A |
 | BeReal. | BeReal: Real-time, unedited social media; $35M raised. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
 | Beacon Platform | Beacon Platform aims to democratize blockchain technology.  $50M funding, $300M valuation. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
 | Beacons | Ashby's mission is to enhance safety through real-time movement tracking. The company has raised $100 million in funding. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
@@ -272,38 +378,74 @@
 | BenchSci | BenchSci: AI transforming life sciences research.  $100M funding, $1B valuation. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
 | Benchling | Benchling's mission: Empower life sciences to solve global problems. Financials: Raised $100M, valued at $1.1B. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
 | Benchling | Benchling: Cloud-based platform for life sciences research.  Funding: Over $100 million raised. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
+| Benepass | N/A | N/A | N/A | 🔒 | N/A |
+| Benevity | N/A | N/A | N/A | 🔒 | N/A |
 | BentoBox | BentoBox: Future of food software platform. Valued at $1.5B. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
 | BerlinRosen | BerlinRosen's mission: Helping clients create a better future. Financials: Raised over $100 million. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
+| Better.com | N/A | N/A | N/A | 🔒 | N/A |
+| BetterCloud | N/A | N/A | N/A | 🔒 | N/A |
+| BetterSleep | N/A | N/A | N/A | 🔒 | N/A |
+| BetterUp | N/A | N/A | N/A | 🔒 | N/A |
+| Betterworks | N/A | N/A | N/A | 🔒 | N/A |
+| Beyond Identity | N/A | N/A | N/A | 🔒 | N/A |
+| Big Health | N/A | N/A | N/A | 🔒 | N/A |
+| BigCommerce | N/A | N/A | N/A | 🔒 | N/A |
 | BigHat Biosciences | BigHat Biosciences: Developing microbial platforms for low-cost production.  Funding: $100M raised, $1.2B valuation. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
 | BillionToOne | BillionToOne uses AI to find top talent.  Venture-backed, $200M funding, $1B valuation. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
+| Billtrust US Careers | N/A | N/A | N/A | 🔒 | N/A |
+| Bilt Rewards | N/A | N/A | N/A | 🔒 | N/A |
 | Binance | Binance: Making crypto accessible. No public funding information. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
+| Binti | N/A | N/A | N/A | 🔒 | N/A |
+| BitGo | N/A | N/A | N/A | 🔒 | N/A |
+| BitMEX | N/A | N/A | N/A | 🔒 | N/A |
+| Bitcoin Depot | N/A | N/A | N/A | 🔒 | N/A |
+| Bitfury | N/A | N/A | N/A | 🔒 | N/A |
 | Bitrise | Bitrise: Simplifying mobile app development.  $100M funding, $1B valuation. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
+| Bitwarden | N/A | N/A | N/A | 🔒 | N/A |
 | Blackbaud | Blackbaud powers nonprofits, raising $1 billion in funding. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
+| Blackbird | N/A | N/A | N/A | 🔒 | N/A |
+| Blackboard | N/A | N/A | N/A | 🔒 | N/A |
 | Blackstone | Blackstone's mission: Creating positive impact for clients, employees, and communities. Financials: $21.7 billion funding round, $684 billion valuation. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
 | Blackstone | Blackstone: Global investment firm creating positive impact.  $20 billion funding round, $684 billion valuation. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
 | Blackstone | Blackstone's mission: Create positive economic impact and long-term value. Financials: $21 billion funding round, $600 billion valuation. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
 | Blend | Blend: Digital lender for small businesses.  $2.2B Series E, $11.7B valuation, $4.5B raised. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
+| Blink UX | N/A | N/A | N/A | 🔒 | N/A |
+| Blinkist | N/A | N/A | N/A | 🔒 | N/A |
+| BlocPower | N/A | N/A | N/A | 🔒 | N/A |
+| Blockchain.com | N/A | N/A | N/A | 🔒 | N/A |
+| Blockstream | N/A | N/A | N/A | 🔒 | N/A |
 | Blockworks | Blockworks: Media and research for the digital asset ecosystem. $10M Series A funding, $15M total raised. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
+| Bloom Institute of Technology | N/A | N/A | N/A | 🔒 | N/A |
 | Blue Cross Blue Shield of Massachusetts | Blue Cross Blue Shield of Massachusetts provides affordable health care. Funding round: Series E, Valuation: $6.5 billion, Total amount raised: $1.2 billion. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
 | Blue Origin | Blue Origin's mission is space exploration.  Raised over $7 billion in funding. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
+| Blue River Technology | N/A | N/A | N/A | 🔒 | N/A |
 | BlueCrest Capital Management | BlueCrest Capital Management: Global macro hedge fund with systematic approach. Raised over $10 billion. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
 | BlueYonder | JDA Software Group's mission is operational excellence through innovative solutions. Raised $1 billion, valued at $5 billion. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
 | Bluesky | BlueSky: Making AI accessible; $100M raised. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
 | Boku | Boku: Simplifying mobile payments globally.  Funding: $100M+, Valuation: $1B+. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
 | Bonfire Studios | Bonfire Studios aims to create immersive blockchain games.  $2.1M raised from top investors. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
 | Boom Supersonic | Boom Supersonic: Developing safe, sustainable, and accessible supersonic travel. Raised $200 million in funding. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
+| Boost | N/A | N/A | N/A | 🔒 | N/A |
 | Bose | Bose's mission: Develop innovative technologies for global improvement. Financials: Valued at $4.1 billion, raised $595 million. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
+| Boulevard | N/A | N/A | N/A | 🔒 | N/A |
+| Bounteous | N/A | N/A | N/A | 🔒 | N/A |
 | Box | Box: Cloud-based content management platform. Mission: Improve information accessibility. Financials: $182M funding, $7.7B valuation. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
 | Bracebridge Capital | Bracebridge Capital invests in AI startups. Series A, \$100 million raised. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
+| Brain Corp | N/A | N/A | N/A | 🔒 | N/A |
 | Brain Technologies | Brain Technologies develops BCIs to empower people with disabilities.  Series A, \$100M valuation, \$20M raised. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
+| Branch | N/A | N/A | N/A | 🔒 | N/A |
+| Branch Metrics | N/A | N/A | N/A | 🔒 | N/A |
 | Brand Knew | Brand Knew: Empowering creators to sell their own brands. Venture-backed startup, raised $100 million, valued at $1 billion. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
 | Brave | Brave: Privacy-focused browser blocking ads and trackers.  Funding: $350M+, Valuation: $1B+. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
 | Braze | Braze: Customer engagement platform. Raised $300M, valued at $1B. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
 | Bread Financial | Bread Financial: Empowering financial accessibility.  $600M raised from Goldman Sachs, Citigroup, Visa. | <p align="center" dir="auto"><a target="_blank" rel="noopener noreferrer" href="./imgs/goldman-sachs.png"><img src="./imgs/goldman-sachs.png" alt="goldman-sachs.png" width="75" style="max-width: 100%;"></a><br></p> | N/A | 🔒 | N/A |
 | BreederDAO | BreederDAO aims to simplify digital asset creation and management.  Series A funding, $100M valuation, $13.3M raised. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
+| Breeze Airways™ | N/A | N/A | N/A | 🔒 | N/A |
 | Brex | Brex's mission is to help startups succeed. (7 words) Raised $1.1 billion, valued at $12 billion. (6 words) | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
 | BridgeBio | BridgeBio's mission is to develop transformative medicines for serious diseases. The company has raised over $1 billion in funding. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
 | Bridgewater Associates | Bridgewater AI: AI-powered data management for businesses.  Series B funding, $500 million valuation, $100 million raised. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
+| BrightHire | N/A | N/A | N/A | 🔒 | N/A |
+| Brightflow AI | N/A | N/A | N/A | 🔒 | N/A |
 | Brightside | GoBrightside: AI-powered mental health tools for all.  Founded in 2017, raised $11.5 million. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
 | Brilliant | Brilliant: Revolutionizing learning through innovative technology.  $100M raised from prestigious investors. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
 | Brilliant | Brilliant: Democratizing education globally.  Raised over $100 million in funding. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
@@ -311,167 +453,301 @@
 | Bristol Myers Squibb | BioMed Realty: Innovative real estate for life science industry.  $10 billion valuation, $500 million raised. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
 | Bristol Myers Squibb | N/A | N/A | N/A | 🔒 | N/A |
 | Broadway Technology | Broadway Technology empowers traders with fast, accurate data.  Raised $100M, valued at $1B. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
+| Brooklinen | N/A | N/A | N/A | 🔒 | N/A |
 | Browser Company | The Browser Company aims to improve web privacy and security.  Backed by Y Combinator, raised $10M. | <p align="center" dir="auto"><a target="_blank" rel="noopener noreferrer" href="./imgs/yc.png"><img src="./imgs/yc.png" alt="yc.png" width="75" style="max-width: 100%;"></a><br></p> | N/A | 🔒 | N/A |
 | Bubble | Bubble enables code-free web app development.  Series B funding, $415M raised. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
+| Bugcrowd | N/A | N/A | N/A | 🔒 | N/A |
+| BuildOps | N/A | N/A | N/A | 🔒 | N/A |
 | BukuWarung | BukuWarung empowers Indonesian MSMEs with affordable financial services. Funding: $500M+, Valuation: $1B+. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
 | Bungie | Bungie creates innovative video games.  Fourth round funding, $3.6 billion valuation, $500 million raised. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
+| Businessolver | N/A | N/A | N/A | 🔒 | N/A |
+| Butler, Shine, Stern & Partners | N/A | N/A | N/A | 🔒 | N/A |
+| Butterfly Network | N/A | N/A | N/A | 🔒 | N/A |
 | Button | Button: Simplifying global payments.  Backed by top investors. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
 | C3 AI | C3 IoT's mission: Making industrial IoT accessible and valuable. Financials: Raised over $200 million. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
 | CANDY | Candy's mission is personalized customer engagement; Series B, \$1.1B valuation, \$160M raised. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
+| CB Insights | N/A | N/A | N/A | 🔒 | N/A |
 | CDC Foundation | CDC Foundation: Saving lives, improving health for global communities.  Third funding round, $1.1 billion raised. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
 | CLEAR - Corporate | Clear develops AI platform for data management.  Series A funding, $20 million raised. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
+| COTA | N/A | N/A | N/A | 🔒 | N/A |
 | Cadence | Cadence's mission: Accelerate innovation through advanced EDA solutions. Financials: $4B funding, $30B valuation. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
 | Cadre | Cadre is democratizing real estate investing. Series A funding, $1 billion valuation, $100 million raised. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
+| Caffeine | N/A | N/A | N/A | 🔒 | N/A |
 | Cake Group | Cake DeFi's mission is to democratize DeFi.  Raised $100M, valued at $1B. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
+| Calendly | N/A | N/A | N/A | 🔒 | N/A |
+| Calm | N/A | N/A | N/A | 🔒 | N/A |
 | Cambly | Cambly's mission: Accessible and affordable English learning for all. Financials: Raised $70M, valued at $300M. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
+| Cameo | N/A | N/A | N/A | 🔒 | N/A |
 | Canal | Shop-Canal: Shopify for physical stores. Backed by top investors, raised $100M+. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
+| Candid | N/A | N/A | N/A | 🔒 | N/A |
 | Canonical | Canonical's mission is to deliver free internet software. The company has raised $2.4 billion in a Series E funding round, with a valuation of $6 billion. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
 | Capital One | Capital One's mission: Build trusted relationships through innovative financial products. Financials: $10B raised, $40B valuation. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
 | Capital One | N/A | N/A | N/A | 🔒 | N/A |
 | Capitolis | Capitolis enables frictionless transactions in global financial markets.  Raised $400M, valued at $2B. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
 | Capitolis | Capitolis aims to improve financial market efficiency and transparency. Series E funding, $1.2 billion valuation, $200 million raised. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
 | CaptivateIQ | CaptivateIQ's mission: Enhancing sales teams' efficiency and effectiveness. Financials: $100M funding, $1B valuation. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
+| Car IQ Inc. | N/A | N/A | N/A | 🔒 | N/A |
 | Carbon | Carbon: Developing technology to capture carbon dioxide. Series B, $1 billion valuation, $1.1 billion raised. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
+| Carbon Direct | N/A | N/A | N/A | 🔒 | N/A |
+| Cardlytics | N/A | N/A | N/A | 🔒 | N/A |
+| Care/of | N/A | N/A | N/A | 🔒 | N/A |
 | CareRev | CareRev: Simplifying healthcare job search. Raised $100M+, valued at $1B. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
+| Careem | N/A | N/A | N/A | 🔒 | N/A |
 | Career Karma | Career Karma: AI career coaching platform. Raised $100M+ in funding. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
 | Careers - Karat | Karat: Technology interview platform for hiring software engineers. Founded in 2012, raised $100M+, valued at $1B. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
 | Careers at Drata | Drata's mission: Protecting data from unauthorized access.  Financials: $100M raised, $1B valuation. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
 | Careers at KKR | KKR: Global investment firm. Raised $10 billion, valued at $230 billion. | <p align="center" dir="auto"><a target="_blank" rel="noopener noreferrer" href="./imgs/kkr.png"><img src="./imgs/kkr.png" alt="kkr.png" width="75" style="max-width: 100%;"></a><br></p> | N/A | 🔒 | N/A |
 | Careers | Snappy Gifts | Snappy: Revolutionizing communication with AI. Series B-funded, $100M raised. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
+| Carrot Fertility | N/A | N/A | N/A | 🔒 | N/A |
 | Carry1st | Carry1st: Digital lending for emerging markets.  $100M funding, $1B valuation. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
 | Carta | Carta simplifies equity management for startups.  Raised over $400 million in funding. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
+| Carta | N/A | N/A | N/A | 🔒 | N/A |
 | Cartography Biosciences | Cartography: Making geospatial data accessible; Series B funding, $100M valuation, $30M raised. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
+| Carvana | N/A | N/A | N/A | 🔒 | N/A |
+| Castiron | N/A | N/A | N/A | 🔒 | N/A |
 | Castleton Commodities International | Cerebras Systems: Leading AI supercomputer developer enabling AI research. Series D, $3.4B valuation, $780M raised. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
 | Cboe | CBOE is a global exchange operator offering innovative trading solutions. Series G funding, \$7.8B valuation, \$1.4B raised. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
 | Cedar | CarePortal: Transforming healthcare delivery; $100M raised. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
 | Celestia Labs | Celestia aims to create a secure, private, and censorship-resistant internet. They have raised $68M in a Series B funding round, with a valuation of $320M. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
+| Celigo | N/A | N/A | N/A | 🔒 | N/A |
 | Census | Ashby: Decentralized social network empowering data control.  Backed by Y Combinator, Sequoia Capital, Kleiner Perkins. | <p align="center" dir="auto"><a target="_blank" rel="noopener noreferrer" href="./imgs/kleiner-perkins.png"><img src="./imgs/kleiner-perkins.png" alt="kleiner-perkins.png" width="75" style="max-width: 100%;"></a><br><a target="_blank" rel="noopener noreferrer" href="./imgs/sequoia.png"><img src="./imgs/sequoia.png" alt="sequoia.png" width="75" style="max-width: 100%;"></a><br><a target="_blank" rel="noopener noreferrer" href="./imgs/yc.png"><img src="./imgs/yc.png" alt="yc.png" width="75" style="max-width: 100%;"></a><br></p> | N/A | 🔒 | N/A |
 | Censys | Censys: Making internet safer; raised $100M+. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
+| Centivo | N/A | N/A | N/A | 🔒 | N/A |
+| Cerebral | N/A | N/A | N/A | 🔒 | N/A |
+| Cerebras Systems | N/A | N/A | N/A | 🔒 | N/A |
 | Chainalysis | Chainalysis helps understand cryptocurrency flow.  $14B valuation, $400M raised. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
+| Chan Zuckerberg Initiative | N/A | N/A | N/A | 🔒 | N/A |
+| Chapter | N/A | N/A | N/A | 🔒 | N/A |
 | Character.AI | Ashby: Building meaningful social media. Series A, $10 million raised. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
+| ChargePoint | N/A | N/A | N/A | 🔒 | N/A |
 | ChartHop | ChartHop's mission is to simplify data visualization.  Over $100 million raised in funding. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
 | ChartHop | Transforming work, $100M funding, $1B valuation. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
+| Chartboost | N/A | N/A | N/A | 🔒 | N/A |
+| Check | N/A | N/A | N/A | 🔒 | N/A |
 | Checkr | Checkr automates background checks for employment. (7 words) Raised $600M, valued at $4B. (5 words) | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
+| Chef Robotics | N/A | N/A | N/A | 🔒 | N/A |
 | Chemours | Chemours: Sustainable chemistry solutions for global challenges.  Funding: $10 billion raised, $33.5 billion market cap. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
 | Chewy | Chewy's mission: Simplify and lower pet ownership costs. Financials: $1.6B raised, $30B valuation. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
 | Chia Network Inc. | Chia Network: Efficient, sustainable blockchain for finance.  $615M raised from top investors. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
 | Chief | Chief's mission: Revolutionizing work flexibility and opportunities. Financials: $100 million raised from investors. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
+| Chime | N/A | N/A | N/A | 🔒 | N/A |
 | Choco | Choco's mission: Transform customer engagement through conversational commerce. Financials: $100M raised from top investors. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
 | Choco | Choco revolutionizes workforce management with AI.  \$220M funding, \$1B valuation. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
+| Chowbus | N/A | N/A | N/A | 🔒 | N/A |
 | Chronosphere | Chronosphere: AI predicting human behavior; \$100M funding, \$1B valuation. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
 | Cider | Shopcider: Social commerce platform connecting shoppers with influencers. Raised $10.5M from Sequoia and Kleiner Perkins. | <p align="center" dir="auto"><a target="_blank" rel="noopener noreferrer" href="./imgs/kleiner-perkins.png"><img src="./imgs/kleiner-perkins.png" alt="kleiner-perkins.png" width="75" style="max-width: 100%;"></a><br><a target="_blank" rel="noopener noreferrer" href="./imgs/sequoia.png"><img src="./imgs/sequoia.png" alt="sequoia.png" width="75" style="max-width: 100%;"></a><br></p> | N/A | 🔒 | N/A |
 | Cinder | Cinder aims to improve cloud storage security and affordability.  Raised over $100 million in funding. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
 | Circle | Circle enables businesses to use digital currencies and blockchain. (8 words) Series E funding, $9 billion valuation, $480 million raised. (7 words) | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
+| CircleCI | N/A | N/A | N/A | 🔒 | N/A |
 | Circles.Life | Circles.Life aims to democratize mobile accessibility.  Raised over $300 million in funding. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
 | Cirque du Soleil Entertainment Group | Cirque du Soleil's mission is to entertain and inspire. They have raised $1.5 billion in funding. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
 | Citadel | Citadel's mission: Superior investment performance and service. Financials: $1.15 billion funding, $15 billion valuation. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
 | Citadel | Citadel's mission: Superior investment performance and service. Financials: $1.15 billion funding, $15 billion valuation. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
 | Citi | Citi's mission: Achieving clients' financial goals. Citi's financials: $10 billion raised, $200 billion valuation. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
+| Citizen | N/A | N/A | N/A | 🔒 | N/A |
 | Citrix | Citrix enables secure cloud computing for businesses globally.  Series G funding, \$14.1 billion valuation, \$1.4 billion raised. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
+| Civis Analytics | N/A | N/A | N/A | 🔒 | N/A |
 | ClassDojo | ClassDojo's mission: Improve education through technology. Financials: $100M funding, $1B valuation. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
+| ClassPass | N/A | N/A | N/A | 🔒 | N/A |
 | Clear Street | ClearStreet: Transforming financial industry with personalized advice.  $120M funding, $1B valuation. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
+| Clearcover | N/A | N/A | N/A | 🔒 | N/A |
+| Cleo (US) | N/A | N/A | N/A | 🔒 | N/A |
 | Clerk | Clerk automates administrative tasks to make work more human.  Series B-funded, \$1B+ valuation, \$100M raised. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
+| Clever | N/A | N/A | N/A | 🔒 | N/A |
+| ClickHouse | N/A | N/A | N/A | 🔒 | N/A |
 | ClickUp | ClickUp: Disrupting team productivity; Raised $400M in Series C. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
 | Climate Power | Climate Power's mission is to accelerate clean energy transition. The company has raised over $100 million in funding. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
 | Clio | Clio empowers lawyers with cloud-based legal software.  Series E, $11.5B valuation, $400M raised. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
 | Clipboard Health | Company mission: Make healthcare more accessible and affordable. Financials: Backed by leading investors. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
+| Clockwise | N/A | N/A | N/A | 🔒 | N/A |
+| Clockwork | N/A | N/A | N/A | 🔒 | N/A |
 | Close | Close is a sales engagement platform for revenue growth. Series E funding, $1.8B valuation, $400M raised. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
 | Cloudera | Cloudera's mission: Powering data solutions for businesses. Financials: $1.5B funding, $5B valuation. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
+| Cloudflare | N/A | N/A | N/A | 🔒 | N/A |
+| Clozd | N/A | N/A | N/A | 🔒 | N/A |
+| Clutter | N/A | N/A | N/A | 🔒 | N/A |
 | Coalition | Coalition's mission: Decentralized web infrastructure for security and accessibility. Financials: $250 million raised from top investors. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
+| Coast | N/A | N/A | N/A | 🔒 | N/A |
+| Cockroach Labs | N/A | N/A | N/A | 🔒 | N/A |
 | Coda | Coda: Real-time collaborative document editor. Series D, $10B valuation, $525M raised. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
+| Code Climate | N/A | N/A | N/A | 🔒 | N/A |
+| Code and Theory | N/A | N/A | N/A | 🔒 | N/A |
 | Code42 | Code42's mission is to protect businesses' data from cyber threats. The company has raised over $200 million and is valued at over $1 billion. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
+| CodeSignal | N/A | N/A | N/A | 🔒 | N/A |
 | Codi | Codi: AI coding assistant. Series A, $15M raised, $75M valuation. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
 | Coffee Meets Bagel | Coffee Meets Bagel: Dating app for meaningful relationships. Raised $100M+, valued at $1B. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
 | Cogent Biosciences | Cogent Biosciences: Precision cancer treatments, transformative technology.  $400M raised, Phase 2 trials. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
 | Cogo Labs | Cogo Labs: Making AI accessible; raised $100M, valued at $1B. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
 | Cohere | Cohere's mission: Advance AI for language understanding and generation. Financials: $160M raised from top investors. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
+| Coherus BioSciences | N/A | N/A | N/A | 🔒 | N/A |
+| Cohesity | N/A | N/A | N/A | 🔒 | N/A |
+| Coin Metrics | N/A | N/A | N/A | 🔒 | N/A |
+| CoinDesk | N/A | N/A | N/A | 🔒 | N/A |
 | CoinFlip | CoinFlip: Making cryptocurrency accessible; raised $100 million, valued at $1.2 billion. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
 | CoinGecko | Coingecko aims to democratize cryptocurrency data.  Series B, $1.7B valuation, $92M raised. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
+| CoinList | N/A | N/A | N/A | 🔒 | N/A |
 | CoinTracker | CoinTracker: Cryptocurrency tax software; $100M+ raised. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
 | Coinbase Careers Page | Coinbase: Secure cryptocurrency exchange. Raised $5B, valued at $8B. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
+| Collective Health | N/A | N/A | N/A | 🔒 | N/A |
+| Collective[i] | N/A | N/A | N/A | 🔒 | N/A |
+| Collibra | N/A | N/A | N/A | 🔒 | N/A |
 | Color | Color uses computer vision to transform physical interactions.  Series B, $1.2B valuation, $100M raised. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
 | Column | Ashby: Future of work platform. Series B, $100M+ raised. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
 | Commerce Bank | Commerce Bank: Simplifying banking; $120M raised. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
+| Common | N/A | N/A | N/A | 🔒 | N/A |
+| Common Room | N/A | N/A | N/A | 🔒 | N/A |
 | Commonwealth Fusion Systems | CFS Energy: Decarbonizing energy with innovative solutions.  $1 billion raised from leading investors. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
 | Community Phone | Ashby is revolutionizing telecommunications with a personal, secure phone. Series B, $100M+ valuation, $40M+ raised. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
+| ComplyAdvantage | N/A | N/A | N/A | 🔒 | N/A |
 | Conduit | Conduit: Simplifying remote collaboration. Series A, $100M valuation, $20M raised. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
+| Confirm | N/A | N/A | N/A | 🔒 | N/A |
 | Confluent | Confluent enables real-time data analysis; raised $2.5 billion. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
+| Consensys | N/A | N/A | N/A | 🔒 | N/A |
+| Contentful | N/A | N/A | N/A | 🔒 | N/A |
 | Convoy | Convoy disrupts trucking industry, connecting shippers and carriers.  $2.7B funding, $4B valuation. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
 | Cord | Cord aims to improve wireless connectivity.  $100M raised from top investors. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
+| Core | N/A | N/A | N/A | 🔒 | N/A |
+| Corvus Insurance | N/A | N/A | N/A | 🔒 | N/A |
+| Cottage | N/A | N/A | N/A | 🔒 | N/A |
 | Coupa Software, Inc. | Coupa Software automates financial processes; raised $4.5 billion. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
 | Coupang | Coupang's mission: "Best shopping experience for customers." Funding round: Series G, \$2.2 billion, \$9 billion valuation. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
+| Course Hero | N/A | N/A | N/A | 🔒 | N/A |
 | Coursera | Coursera: Online learning platform, universal education access. Raised $1.5B, valued at $2.9B. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
+| Covera Health | N/A | N/A | N/A | 🔒 | N/A |
 | Cowbell Cyber Inc. | Cowbell Cyber's mission is affordable cybersecurity for all. They have raised $20 million in funding. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
+| Crabel Capital Management, LLC | N/A | N/A | N/A | 🔒 | N/A |
+| Credible | N/A | N/A | N/A | 🔒 | N/A |
 | Credit Karma | Credit Karma's mission is financial empowerment. $700M funding, $4B valuation. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
 | Creditas | Creditas provides affordable financial products in Latin America. Raised $800 million, valued at $1 billion. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
+| Cresco Labs | N/A | N/A | N/A | 🔒 | N/A |
 | Cresta | Cresta: AI company boosting sales.  $100M funding, $1B valuation. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
+| Cribl | N/A | N/A | N/A | 🔒 | N/A |
+| Critical Mass | N/A | N/A | N/A | 🔒 | N/A |
 | Cross River | Cross River Bank: Mission-driven financial institution serving small businesses and consumers. Raised $250M in Series E at $4B valuation. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
 | Cross River | Cross River Bank provides digital banking services to small businesses and startups.  Raised $350M in Series E funding, valued at $4.5B. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
 | Crossbeam | Crossbeam connects B2B sales teams with target accounts.  Raised over $100 million in funding. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
+| Crowdbotics | N/A | N/A | N/A | 🔒 | N/A |
 | Crowdstrike | CrowdStrike's mission: Global leader in cybersecurity protection. Financials: $1.1B funding, $11B valuation. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
 | Cruise | Cruise: Revolutionizing transportation with self-driving cars.  Fourth funding round, valued at $30 billion, raised $8 billion. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
 | Cruise - University | Cruise University: Revolutionizing cruise industry education.  Funding: \$100M, valuation: \$1B. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
+| Crunchbase | N/A | N/A | N/A | 🔒 | N/A |
+| Crunchyroll | N/A | N/A | N/A | 🔒 | N/A |
 | Crusoe | Crusoe Energy provides affordable renewable natural gas solutions. Series C funding, $1B valuation, $700M raised. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
 | Crusoe | Crusoe Energy: Sustainable energy provider accelerating clean energy transition. Raised $500M, valued at $1B. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
 | Cubic | Cubic connects people, communities, and data.  Series F funding raised $2.1 billion, valuation $14 billion. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
 | Culture Biosciences | Culture Biosciences aims to develop sustainable animal products.  $100M Series B, $1B valuation. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
+| Curaleaf | N/A | N/A | N/A | 🔒 | N/A |
+| Curated | N/A | N/A | N/A | 🔒 | N/A |
+| Curative | N/A | N/A | N/A | 🔒 | N/A |
 | Curio Research | Curio.gg aims to revolutionize gaming by connecting players and promoting accessibility. (10 words) Series A, $100M valuation, $20M raised. (5 words) | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
 | Current Job Openings | New Positions | Careers at Betterment | Betterment provides accessible financial advice through technology. Series E, $1.5B valuation, $450M raised. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
 | Current Openings at Seven Eight Capital | Seven Eight Capital: VC firm investing in early-stage startups. $1B raised, 100+ investments. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
+| Curve Health | N/A | N/A | N/A | 🔒 | N/A |
+| D2L | N/A | N/A | N/A | 🔒 | N/A |
 | DHI Group, Inc. | DHI Group's mission is to streamline real estate transactions.  Raised $100 million, valued at $1 billion. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
+| DISCO | N/A | N/A | N/A | 🔒 | N/A |
+| Dagger | N/A | N/A | N/A | 🔒 | N/A |
+| Daily Harvest | N/A | N/A | N/A | 🔒 | N/A |
+| DailyPay Belfast | N/A | N/A | N/A | 🔒 | N/A |
+| Dandy | N/A | N/A | N/A | 🔒 | N/A |
 | Dapper Labs | Axiom Zen: Making AI accessible; $2B valuation, $300M raised. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
+| Dashlane | N/A | N/A | N/A | 🔒 | N/A |
 | Dashworks | Dashworks: AI sales enablement software, empowering sales teams.  Funding: $100M+, valued at $1B. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
+| DataCamp | N/A | N/A | N/A | 🔒 | N/A |
+| DataGrail | N/A | N/A | N/A | 🔒 | N/A |
 | Databento | DataBend's mission is to revolutionize data usage for businesses. They have raised $100 million in funding and are valued at $1 billion in their Series C funding round. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
+| Databook | N/A | N/A | N/A | 🔒 | N/A |
 | Databricks | Databricks: Collaborative analytics platform for big data.  Founded in 2013, raised $3.1 billion, valued at $28 billion. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
+| Datadog | N/A | N/A | N/A | 🔒 | N/A |
 | Dataiku | Dataiku helps businesses make better decisions using AI.  Series D, $4.6B valuation, $530M raised. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
 | Datavant | Datavant: Healthcare data sharing platform improving patient care. Raised $100M+, valued at $1B+. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
+| Dealpath | N/A | N/A | N/A | 🔒 | N/A |
 | Decide | Decide: AI-powered decision-making tools for businesses.  Series B funding, $100 million raised. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
 | Deel | N/A | N/A | N/A | 🔒 | N/A |
 | DeepMind | DeepMind's mission is to solve intelligence.  Raised over $1 billion in funding. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
 | Deepcell | DeepCell develops cell-based therapies.  Backed by leading investors. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
 | Deepgram | Deepgram's mission: Making information accessible through accurate speech recognition. Financials: $110 million raised from investors. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
+| Degreed | N/A | N/A | N/A | 🔒 | N/A |
+| Deliveroo | N/A | N/A | N/A | 🔒 | N/A |
 | Dell | Dell Technologies: Transforming technology; $50 billion raised. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
+| Delphia | N/A | N/A | N/A | 🔒 | N/A |
+| Demandbase | N/A | N/A | N/A | 🔒 | N/A |
 | Demiurge Studios | Demiurge Studios: Innovative game development for wide player appeal. Raised $50M+ in funding. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
+| Density | N/A | N/A | N/A | 🔒 | N/A |
+| Descript | N/A | N/A | N/A | 🔒 | N/A |
+| Desktop Metal | N/A | N/A | N/A | 🔒 | N/A |
+| DevRev | N/A | N/A | N/A | 🔒 | N/A |
 | DiDi Labs | Didi Chuxing's mission: Convenient and affordable transportation for everyone. Financials: Raised $4.4 billion, valued at $67 billion. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
 | Dialpad | Dialpad's mission is to empower effective business communication. They have raised $433 million in a Series E funding round, with a valuation of $1.2 billion. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
 | Diamond Foundry | Diamond Foundry manufactures lab-grown diamonds. They aim to make diamonds more accessible and sustainable. They raised $110 million in a Series D funding round, have a valuation of $1.1 billion, and raised a total of $270 million. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
+| Digit | N/A | N/A | N/A | 🔒 | N/A |
+| Digital.ai | N/A | N/A | N/A | 🔒 | N/A |
 | Diligent Corporation | Diligent Corporation empowers lawyers with efficient software tools. Raised $100M, valued at $1B. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
+| Diligent Services | N/A | N/A | N/A | 🔒 | N/A |
 | Dimensional | Dimensional AI's mission: Making AI accessible for businesses. Financials: $100M funding, $1B valuation. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
 | Disability Rights California | Disability Rights California fights for disability rights. Series A funding raised $10 million. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
 | Disc Golf Pro Tour | Ashby: Revolutionizing computing with new chip technology.  Series B funding, $100 million raised. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
+| Discord | N/A | N/A | N/A | 🔒 | N/A |
 | Ditto | Ditto aims to improve voice assistants' naturalness and understanding. Series B funding, \$1.2 billion valuation, \$125 million raised. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
+| Divvy Homes | N/A | N/A | N/A | 🔒 | N/A |
 | Docker | Docker: Platform for developing and running applications. Series F, \$13.2B valuation, \$350M raised. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
+| Docugami | N/A | N/A | N/A | 🔒 | N/A |
+| Dollar Shave Club | N/A | N/A | N/A | 🔒 | N/A |
+| Doma | N/A | N/A | N/A | 🔒 | N/A |
 | Domeyard LP | Domeyard aims to revolutionize digital commerce. (10 words) Series A funding: $10M, valuation: $100M, total raised: $15M. (5 words) | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
+| Domino Data Lab | N/A | N/A | N/A | 🔒 | N/A |
 | Domo | Domo's mission is to provide businesses with data insights.  Funding: $900M+, Valuation: $2B+. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
 | DoorDash | DoorDash's mission: Empower local businesses and provide convenient delivery. Financials: $12B raised, $70B valuation. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
 | DoubleVerify | DoubleVerify's mission is to make digital advertising transparent and safe. They have raised $325M in funding, totaling $540M. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
+| Dovetail | N/A | N/A | N/A | 🔒 | N/A |
 | Dow Jones | Dow Jones: Trusted news and business information globally. Raised $500M, valued at $5B. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
 | Doximity | Doximity's mission is to verify online user identities.  $100M Series C funding, $1B valuation. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
+| Dremio | N/A | N/A | N/A | 🔒 | N/A |
+| Drift.com | N/A | N/A | N/A | 🔒 | N/A |
 | DriveTime | DriveTime: Convenient and affordable car buying.  $1 billion raised, $2 billion valuation. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
+| DriveWealth | N/A | N/A | N/A | 🔒 | N/A |
 | DroneUp | DroneUp aims to revolutionize drone delivery.  Series D funding, $1 billion valuation, $500 million raised. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
+| Dropbox | N/A | N/A | N/A | 🔒 | N/A |
 | Druva | Druva's mission is to provide comprehensive cloud data protection.  Raised over $400 million in funding. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
+| Ducera Partners - Experienced Hires | N/A | N/A | N/A | 🔒 | N/A |
 | Duck Creek | Duck Creek Technologies: Simplifying insurance; $300M funding, $1B valuation. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
 | Duke Energy | Duke Energy provides reliable, sustainable energy to millions.  2020: Ranked 10th, $100B market cap, $10B raised. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
 | Duolingo | Duolingo's mission: Make language learning accessible to all. Financials: Raised $400 million in funding. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
 | Dwolla | Dwolla's mission: Simplify business payments. Financials: $100M funding, $1B valuation. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
 | Dynamic | DynamicXYZ: AI solutions for better business decisions. Prestigious investors, $1B+ raised. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
 | Dyno Therapeutics | Dyno Therapeutics develops gene therapies for serious diseases.  Raised $120 million in funding. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
+| E-Space | N/A | N/A | N/A | 🔒 | N/A |
+| EarnIn | N/A | N/A | N/A | 🔒 | N/A |
+| EarnUp | N/A | N/A | N/A | 🔒 | N/A |
+| Earnest Current Job Openings | N/A | N/A | N/A | 🔒 | N/A |
 | EasyPost | EasyPost's mission is to simplify shipping. They have raised over $300 million and are valued at over $1 billion. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
 | Echo | Echo Logistics aims to revolutionize logistics.  $100M funding, $1B valuation. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
+| Eco | N/A | N/A | N/A | 🔒 | N/A |
 | Egen | Egen Solutions: AI-powered cybersecurity protecting critical data. Series C, \$1.5B valuation, \$240M raised. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
+| Elastic | N/A | N/A | N/A | 🔒 | N/A |
 | Electric AI | ElectricAI's mission is to democratize AI technology.  Venture-backed with leading investors. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
+| Electric Hydrogen | N/A | N/A | N/A | 🔒 | N/A |
 | Elegen | Elegen: AI solutions for energy efficiency.  Backed by leading investors, raised [total amount raised]. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
+| Element Biosciences | N/A | N/A | N/A | 🔒 | N/A |
+| Elementum | N/A | N/A | N/A | 🔒 | N/A |
 | Elevance Health | Evalence Health: Making personalized healthcare accessible.  Series B: Raised $60M at $300M valuation. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
 | EliseAI | Elise AI: AI platform for data management. Series C, $1B valuation, $100M raised. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
+| Elodie Games | N/A | N/A | N/A | 🔒 | N/A |
+| Elwood Technologies | N/A | N/A | N/A | 🔒 | N/A |
+| Embrace | N/A | N/A | N/A | 🔒 | N/A |
 | Employment Opportunities at BuzzFeed, Inc. | Buzzfeed creates news, entertainment, and branded content for the social web. It has raised $465 million in funding, with a valuation of $1.5 billion in Series F. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
 | Emulate | Emulate's mission: Enable immersive AI experiences. Financials: Series A, $25 million raised. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
 | Endava | Levvel: AI solutions for businesses. Raised $100M+ in funding. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
+| EnergyHub | N/A | N/A | N/A | 🔒 | N/A |
+| Enova International | N/A | N/A | N/A | 🔒 | N/A |
 | Enthought | Enthought: Python tools for scientific computing. Series C, $100M valuation, $40M raised. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
 | Entrata | Entrata: Cloud-based property management software for multifamily industry. Backed by leading VCs, raised $100M+, $1B valuation. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
 | Enveda Biosciences | EnvedaBio develops probiotics to revolutionize disease treatment.  Series B: $50M raised, $250M valuation. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
+| Enveritas | N/A | N/A | N/A | 🔒 | N/A |
 | Envision Employment Solutions | Envision Employment Solutions: AI-powered talent acquisition for efficient hiring. Series C, \$1.2B valuation, \$100M raised. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
 | Envoy | Envoy: Building the future of work, making interactions more human. Backed by top investors, valued at $10 billion, raised $1.2 billion. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
 | Epic Avature | Epic Systems' mission is to improve healthcare.  Funding round: $5.7 billion, valuation: $56 billion. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
+| Epirus | N/A | N/A | N/A | 🔒 | N/A |
 | Epsilon3 | Epsilon3: Quantum computing software startup.  Backed by top-tier investors. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
 | Equinix | Equinix: Global digital infrastructure leader connecting businesses. Series F, \$57B valuation, \$7.8B raised. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
 | Equitable Bank | EQ Bank: Simplifying banking for Canadians.  Series C funding: $150 million, $1 billion valuation. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
@@ -559,6 +835,7 @@
 | Gordian Software | Gordian Software aims to revolutionize logistics with AI-powered solutions.  Raised $100 million in funding. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
 | Grafana Labs | Grafana Labs: Open source analytics and monitoring platform. Raised $215M, valued at $3B. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
 | Grammarly | Grammarly: AI writing assistant for effective communication.  Raised $900M, valued at $13B. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
+| Greene & Co Careers | N/A | N/A | N/A | 🔒 | N/A |
 | Greenlight Financial Technology | Greenlight: Changing family finances through education.  $200M raised from top investors. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
 | Grindr | Grindr is a social networking app for LGBTQ+ individuals. It was acquired by Spire Global for $235 million in 2022. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
 | Guild | Guild AI's mission is to make AI accessible for businesses. The company has raised over $100 million in funding. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
@@ -619,6 +896,8 @@
 | Jeeves | TryJeeves automates administrative tasks for a more productive work. Raised $100M from top investors. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
 | Jellyfish | Jellyfish's mission: Make AI accessible to everyone. Financials: Raised $120M, valued at $1B. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
 | Jina AI | Jina AI: Democratizing AI development. Raised $100 million. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
+| Job Application for Submit a General Application at Apixio | N/A | N/A | N/A | 🔒 | N/A |
+| Job Board | N/A | N/A | N/A | 🔒 | N/A |
 | Jobs - Scout24 | Scout24's mission: Simplify buying and selling online. Financials: €4.5bn funding, €5bn valuation. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
 | Johnson Controls | Jupiter Intelligence: Geospatial intelligence for global safety. Raised $200M in Series E, valued at $1B. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
 | Juniper Solutions, Inc. | Juniper Platform: Making blockchain accessible; \$100M funding, \$1B valuation. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
@@ -998,9 +1277,11 @@
 | Tencent | Tencent's mission: Connect everything for a better future. Financials: Valued at $575 billion, raised $145 billion. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
 | Tencent | Tencent's mission: "connect everything" through technology. Financials: Raised $5.7 billion, valued at $500 billion. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
 | TextNow | TextNow's mission: Affordable and accessible communication for all. Financials: $200M raised, $1B valuation. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
+| The Allen Institute for AI | N/A | N/A | N/A | 🔒 | N/A |
 | The Andersons | Company mission: Helping farmers grow and improve. Financials: $200 million funding round. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
 | The Athletic Media Company | The Athletic provides in-depth sports journalism for fans. Raised $200M, valued at $1B. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
 | The Federal Reserve | Flourish uses AI to find financial products.  Series B funding, $100 million raised. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
+| The Parent Company | N/A | N/A | N/A | 🔒 | N/A |
 | The Pokémon Company International | Pokémon brings joy through innovative entertainment. Series C, \$9B valuation, \$350M raised. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
 | The Toro Company | Toro: Autonomous vehicle software solving transportation problem.  Funding: SoftBank, Andreessen Horowitz, Kleiner Perkins. | <p align="center" dir="auto"><a target="_blank" rel="noopener noreferrer" href="./imgs/a16z.png"><img src="./imgs/a16z.png" alt="a16z.png" width="75" style="max-width: 100%;"></a><br><a target="_blank" rel="noopener noreferrer" href="./imgs/kleiner-perkins.png"><img src="./imgs/kleiner-perkins.png" alt="kleiner-perkins.png" width="75" style="max-width: 100%;"></a><br></p> | N/A | 🔒 | N/A |
 | The Voleon Group | Voleon's mission: Make AI accessible to all businesses. Financials: $100M raised, $1B valuation. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
@@ -1015,6 +1296,7 @@
 | TransUnion | TransUnion helps businesses and consumers make informed decisions.  Market cap: $24.6 billion, raised $1.5 billion. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
 | Tremendous | Tremendous: Revolutionizing remote work.  Series A, $20 million raised. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
 | Trendyol | Trendyol aims to revolutionize online shopping.  Raised $1.5 billion from prestigious investors. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
+| Trexie Management, LLC | N/A | N/A | N/A | 🔒 | N/A |
 | Tripalink | Tripalink: Disrupting travel industry; one-stop shop for travel needs. Funding: $100 million raised from top investors. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
 | Tropic | Tropic: Democratizing imaging through computational technology.  Backed by Sequoia, Kleiner Perkins, GV. | <p align="center" dir="auto"><a target="_blank" rel="noopener noreferrer" href="./imgs/kleiner-perkins.png"><img src="./imgs/kleiner-perkins.png" alt="kleiner-perkins.png" width="75" style="max-width: 100%;"></a><br><a target="_blank" rel="noopener noreferrer" href="./imgs/sequoia.png"><img src="./imgs/sequoia.png" alt="sequoia.png" width="75" style="max-width: 100%;"></a><br></p> | N/A | 🔒 | N/A |
 | Truera | Ailens uses AI to solve business problems.  Series A, $10M raised, $50M valuation. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
@@ -1116,10 +1398,20 @@
 | Zoox | Zoox: Autonomous vehicles for safer roads.  Series D: \$2.1B raised, \$24B valuation. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
 | a16z | Andreessen Horowitz is a venture capital firm supporting early-stage tech companies. They have a Series G funding round, a \$28.5 billion valuation, and raised \$16.9 billion. | <p align="center" dir="auto"><a target="_blank" rel="noopener noreferrer" href="./imgs/a16z.png"><img src="./imgs/a16z.png" alt="a16z.png" width="75" style="max-width: 100%;"></a><br></p> | N/A | 🔒 | N/A |
 | accesso | N/A | N/A | N/A | 🔒 | N/A |
+| aifleet | N/A | N/A | N/A | 🔒 | N/A |
+| amika | N/A | N/A | N/A | 🔒 | N/A |
 | brightwheel | Brightwheel's mission: Improve early childhood education accessibility and effectiveness. Financials: $200M raised, $1B valuation. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
+| brooksrunning.com | N/A | N/A | N/A | 🔒 | N/A |
+| commercetools | N/A | N/A | N/A | 🔒 | N/A |
+| cove.tool | N/A | N/A | N/A | 🔒 | N/A |
 | credit suisse | TAS provides financial services to traders worldwide. Series C funding, \$1.5B valuation, \$400M raised. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
 | dYdX | Dydx aims to democratize financial markets through cryptocurrency derivatives. Series C, $1.6B valuation, $137M raised. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
+| data.ai | N/A | N/A | N/A | 🔒 | N/A |
+| doxo | N/A | N/A | N/A | 🔒 | N/A |
+| ecobee | N/A | N/A | N/A | 🔒 | N/A |
+| eko | N/A | N/A | N/A | 🔒 | N/A |
 | iRobot | iRobot's mission is to make the world cleaner.  Raised $750 million in Series G funding. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
 | identifeye HEALTH Inc. | Tesseract revolutionizes computer interaction with human-like AI.  Series B funding, $1 billion valuation, $200 million raised. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
 | insitro | Insitro develops AI-driven drugs for diseases.  Series B funding, $100 million raised. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
+| ‎ConnectWise | N/A | N/A | N/A | 🔒 | N/A |
 | ‏‏‎ ‎ | WaveXR's mission: Make VR/AR accessible to everyone. Financials: $100 million raised, top investors. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
