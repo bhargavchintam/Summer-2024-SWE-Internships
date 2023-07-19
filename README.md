@@ -118,6 +118,7 @@
 | Absci | Absci's mission is to engineer cells for molecule production. The company raised $100 million in Series B funding, with a valuation of $1.2 billion and total funding of $150 million. | <p align="center" dir="auto"><a target="_blank" rel="noopener noreferrer" href="./imgs/google-ventures.png"><img src="./imgs/google-ventures.png" alt="google-ventures.png" width="75" style="max-width: 100%;"></a><br></p> | [Research Intern, Artificial Intelligence](https://www.absci.com/careers/roles/?gh_jid=5406094003) | ✅ | June 21, 2023 |
 | Capstone | Capstone Investment Advisors: Venture capital firm supporting startups. $1 billion raised, 100+ investments. | <p align="center" dir="auto"></p> | [2024 Summer Internship - Software Engineer - NYC](https://boards.greenhouse.io/capstoneinvestmentadvisors/jobs/6784275002) | ✅ | June 21, 2023 |
 | Capstone | Capstone Investment Advisors: Venture capital firm supporting startups. $1 billion raised, 100+ investments. | <p align="center" dir="auto"></p> | [2024 Summer Internship - Quantitative Risk - NYC](https://boards.greenhouse.io/capstoneinvestmentadvisors/jobs/6787732002) | ✅ | June 21, 2023 |
+|  | N/A | N/A | N/A | 🔒 | N/A |
 | 1Password | 1Password: Enhancing online security; $425M raised, $4B valuation. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
 | 23andMe | 23andMe empowers people with genetic information. Series H, $3.5B valuation, $850M raised. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
 | 2K | 2K creates innovative video games for all ages.  Series G funding: $2.1 billion, $12.1 billion valuation, $1.3 billion raised. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
@@ -141,19 +142,40 @@
 | Abridge | N/A | N/A | N/A | 🔒 | N/A |
 | Academy Sports + Outdoors | SoFi: Achieving financial independence, Series G, $4.4 billion valuation, $1.2 billion raised. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
 | Acadia Pharmaceuticals Inc. | Acadia Pharmaceuticals develops CNS disorder treatments.  Raised $400M from top investors. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
+| Accela | N/A | N/A | N/A | 🔒 | N/A |
+| Accenture | N/A | N/A | N/A | 🔒 | N/A |
+| Access Softek | N/A | N/A | N/A | 🔒 | N/A |
 | Accolade | Accolades: AI platform for personalized employee recognition. Series B, \$100M valuation, \$130M raised. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
 | Accolade | Accolades: AI-powered talent identification for efficient hiring.  Series B funding, $100 million raised. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
+| AccuWeather Careers | N/A | N/A | N/A | 🔒 | N/A |
+| Acelerate | N/A | N/A | N/A | 🔒 | N/A |
+| Aclima | N/A | N/A | N/A | 🔒 | N/A |
 | Acorns | Acorns aims to help people save and invest.  $700M funding, $1B valuation. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
 | Acquia | Acquia: Leading open source software for Drupal. $250M Series E, $2.5B valuation, $600M raised. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
+| Acronis | N/A | N/A | N/A | 🔒 | N/A |
+| ActBlue | N/A | N/A | N/A | 🔒 | N/A |
 | ActionIQ | ActionIQ's mission is to personalize customer experiences. The company has raised over $100 million and is valued at over $1 billion. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
+| ActiveCampaign | N/A | N/A | N/A | 🔒 | N/A |
+| Activision Blizzard | N/A | N/A | N/A | 🔒 | N/A |
 | Actual | Ashby: Future of work platform enabling remote work.  Series A funding: $100 million raised. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
 | Acumen, LLC | Acumen invests in poverty-solving businesses. Series E, $1.5B valuation, $250M raised. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
+| Ad Hoc Company Website | N/A | N/A | N/A | 🔒 | N/A |
+| Ada | N/A | N/A | N/A | 🔒 | N/A |
+| Adaptive | N/A | N/A | N/A | 🔒 | N/A |
+| Adaptive Biotechnologies | N/A | N/A | N/A | 🔒 | N/A |
 | Addepar | Addepar: Revolutionizing financial advice; $400M funding, $2B valuation. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
 | Addi | ADDI is an AI lending platform empowering small businesses. Series C funding, $1.6B valuation, $240M raised. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
+| Adept | N/A | N/A | N/A | 🔒 | N/A |
 | Adim | ADIM's mission: Make information accessible and useful. Financials: Founded in 2017, $100M raised, $1B valuation. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
 | Adobe | Adobe's mission is to enable creativity for all. Adobe raised $4.75 billion at a valuation of $221 billion. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
+| Adyen | N/A | N/A | N/A | 🔒 | N/A |
 | Aechelon Technology | Aechelon: Democratizing AI. Backed by top investors. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
+| Aera Technology | N/A | N/A | N/A | 🔒 | N/A |
+| AeroVect | N/A | N/A | N/A | 🔒 | N/A |
 | AeroVironment | Avav's mission is to democratize AI.  \$100 million raised in funding. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
+| Aerospike | N/A | N/A | N/A | 🔒 | N/A |
+| Aetion | N/A | N/A | N/A | 🔒 | N/A |
+| Affinitiv | N/A | N/A | N/A | 🔒 | N/A |
 | Affinity.co | Affinity: Personalized AI search engine. Series A, $100M raised. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
 | Affirm | Affirm: Making credit accessible and affordable.  $1.5B funding, $2B valuation. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
 | Agot | Ago.ai aims to democratize AI.  Raised $100 million in funding. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
@@ -1093,6 +1115,7 @@
 | Zoom | Zoom's mission is global video conferencing accessibility.  Zoom has raised $2.6 billion, valued at $100 billion. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
 | Zoox | Zoox: Autonomous vehicles for safer roads.  Series D: \$2.1B raised, \$24B valuation. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
 | a16z | Andreessen Horowitz is a venture capital firm supporting early-stage tech companies. They have a Series G funding round, a \$28.5 billion valuation, and raised \$16.9 billion. | <p align="center" dir="auto"><a target="_blank" rel="noopener noreferrer" href="./imgs/a16z.png"><img src="./imgs/a16z.png" alt="a16z.png" width="75" style="max-width: 100%;"></a><br></p> | N/A | 🔒 | N/A |
+| accesso | N/A | N/A | N/A | 🔒 | N/A |
 | brightwheel | Brightwheel's mission: Improve early childhood education accessibility and effectiveness. Financials: $200M raised, $1B valuation. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
 | credit suisse | TAS provides financial services to traders worldwide. Series C funding, \$1.5B valuation, \$400M raised. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
 | dYdX | Dydx aims to democratize financial markets through cryptocurrency derivatives. Series C, $1.6B valuation, $137M raised. | <p align="center" dir="auto"></p> | N/A | 🔒 | N/A |
