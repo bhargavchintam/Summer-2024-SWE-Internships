@@ -131,8 +131,8 @@
 | The Block | A16Z, Sequoia | [Research Intern - Data](https://jobs.lever.co/theblockcrypto/00ecc02c-b30e-4d1b-a02b-2f400e53e66a?utm_source=CarbosJobs) | ✅ | June 21, 2023 |
 | Gate.io | Sequoia | [Market research Intern](https://jobs.lever.co/gate.io/cc590402-eb67-4e2b-9c67-308d2473cd4a?utm_source=CarbosJobs) | ✅ | June 21, 2023 |
 | CertiK | Tiger Global, Sequoia | [Full Stack Internship - Matrix](https://jobs.lever.co/certik/ca67aab6-9b8b-4c2f-ad80-ff5855292f48?utm_source=CarbosJobs) | ✅ | June 21, 2023 |
-| CertiK | Tiger Global, Sequoia | [Research Analyst Intern](https://jobs.lever.co/certik/277fc381-3f3f-491c-879f-be48850e60ff?utm_source=CarbosJobs) | ❌ | June 21, 2023 |
 | CertiK | Tiger Global, Sequoia | [Platform Engineering Intern](https://jobs.lever.co/certik/095fdcff-99e8-408d-bb8a-e638e44d0b40?utm_source=CarbosJobs) | ✅ | June 21, 2023 |
+| CertiK | Tiger Global, Sequoia | [Research Analyst Intern](https://jobs.lever.co/certik/277fc381-3f3f-491c-879f-be48850e60ff?utm_source=CarbosJobs) | ❌ | June 21, 2023 |
 | The Boring Company | Founders Fund, Sequoia | [Civil Engineering Intern](https://jobs.lever.co/boringcompany/f6d53f8a-d4da-4212-8a40-3f724ba07b1f?utm_source=CarbosJobs) | ✅ | June 21, 2023 |
 | The Boring Company | Founders Fund, Sequoia | [Tunnel Engineering Intern](https://jobs.lever.co/boringcompany/f07e7532-a6e0-45c9-8328-c521bb68f105?utm_source=CarbosJobs) | ✅ | June 21, 2023 |
 | The Boring Company | Founders Fund, Sequoia | [Integration Engineering Intern](https://jobs.lever.co/boringcompany/1c1ee776-cbf4-4cf0-bfb0-a446ed89ee29?utm_source=CarbosJobs) | ✅ | June 21, 2023 |
