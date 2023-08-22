@@ -22,6 +22,9 @@
 
 | Company | Investors | Title | Status | Added On |
 | ------- | ----------| ----- | ------ |--------- |
+| Allegion |  | [Summer Intern - Test Engineer](https://allegion.wd5.myworkdayjobs.com/careers/job/Farmington-CT/Summer-Intern---Test-Engineer_JR26810?utm_source=CarbosJobs) | ✅ | August 22, 2023 |
+| Allegion |  | [Summer Intern - Mechanical Engineering](https://allegion.wd5.myworkdayjobs.com/careers/job/Colorado-Springs-CO/Summer-Intern---Mechanical-Engineering_JR26923?utm_source=CarbosJobs) | ✅ | August 22, 2023 |
+| Allegion |  | [Summer Intern - Electrical Engineer](https://allegion.wd5.myworkdayjobs.com/careers/job/Farmington-CT/Summer-Intern---Electrical-Engineer_JR26907?utm_source=CarbosJobs) | ✅ | August 22, 2023 |
 | The Federal Reserve | A16Z | [Spring 2024 Operations Intern: CBDC Research](https://rb.wd5.myworkdayjobs.com/FRS/job/Remote---Massachusetts/Spring-2024-Co-op--Operations-Intern_R-0000019022-2?utm_source=CarbosJobs) | ✅ | August 17, 2023 |
 | Chamberlain Group | Kleiner Perkins, Sequoia | [Intern, Machine Learning, Computer Vision, and AI (Summer 2024)](https://chamberlain.wd1.myworkdayjobs.com/Chamberlain_Group/job/Oak-Brook-IL/Intern--Machine-Learning--Computer-Vision--and-AI--Summer-2024-_JR26221?utm_source=CarbosJobs) | ✅ | August 17, 2023 |
 | Chamberlain Group | Kleiner Perkins, Sequoia | [Intern, Firmware Engineering (Summer 2024)](https://chamberlain.wd1.myworkdayjobs.com/Chamberlain_Group/job/Oak-Brook-IL/Intern--Firmware-Engineering--Summer-2024-_JR26222-1?utm_source=CarbosJobs) | ❌ | August 17, 2023 |
