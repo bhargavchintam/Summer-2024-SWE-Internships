@@ -22,6 +22,10 @@
 
 | Company | Investors | Title | Status | Added On |
 | ------- | ----------| ----- | ------ |--------- |
+| Teledyne | A16Z, Sequoia | [Computer Engineering Intern](https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Lincoln-NE/Computer-Engineering-Intern_REQ20909?utm_source=CarbosJobs) | ✅ | August 22, 2023 |
+| Scale AI | A16Z, Google Ventures, Kleiner Perkins | [Software Engineering Intern](https://boards.greenhouse.io/scaleai/jobs/4305863005?utm_source=CarbosJobs) | ✅ | August 22, 2023 |
+| Scale AI | A16Z, Google Ventures, Kleiner Perkins | [Machine Learning Research Engineering Intern](https://boards.greenhouse.io/scaleai/jobs/4305872005?utm_source=CarbosJobs) | ✅ | August 22, 2023 |
+| Amadeus | Kleiner Perkins, Sequoia | [Software Development Intern](https://amadeus.wd3.myworkdayjobs.com/jobs/job/Orlando-Florida/Software-Development-Intern_R13023?utm_source=CarbosJobs) | ✅ | August 22, 2023 |
 | Schweitzer Engineering Laboratories |  | [Software Engineer Intern](https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Pullman/Software-Engineer-Intern_2023-12771?utm_source=CarbosJobs) | ✅ | August 22, 2023 |
 | Schweitzer Engineering Laboratories |  | [Software Engineer Intern](https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Pullman/Software-Engineer-Intern_2023-12770?utm_source=CarbosJobs) | ✅ | August 22, 2023 |
 | Schweitzer Engineering Laboratories |  | [Network Engineering Intern](https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Pullman/Network-Engineering-Intern_2023-12782-1?utm_source=CarbosJobs) | ✅ | August 22, 2023 |
@@ -46,7 +50,7 @@
 | Kla | Kleiner Perkins, Sequoia | [Mechanical Engineering Intern](https://kla.wd1.myworkdayjobs.com/Search/job/Ann-Arbor-MI/Mechanical-Engineering-Intern_2320135-2?utm_source=CarbosJobs) | ❌ | August 15, 2023 |
 | Kla | Kleiner Perkins, Sequoia | [Mechanical Engineering Intern](https://kla.wd1.myworkdayjobs.com/Search/job/Ann-Arbor-MI/Mechanical-Engineering-Intern_2320136-1?utm_source=CarbosJobs) | ✅ | August 15, 2023 |
 | Kla | Kleiner Perkins, Sequoia | [Electrical Engineering Intern](https://kla.wd1.myworkdayjobs.com/Search/job/Ann-Arbor-MI/Electrical-Engineering-Intern_2320064-1?utm_source=CarbosJobs) | ✅ | August 15, 2023 |
-| Kla | Kleiner Perkins, Sequoia | [Algorithm Engineering Intern](https://kla.wd1.myworkdayjobs.com/Search/job/Ann-Arbor-MI/Algorithm-Engineering-Intern_2319982-2?utm_source=CarbosJobs) | ✅ | August 15, 2023 |
+| Kla | Kleiner Perkins, Sequoia | [Algorithm Engineering Intern](https://kla.wd1.myworkdayjobs.com/Search/job/Ann-Arbor-MI/Algorithm-Engineering-Intern_2319982-2?utm_source=CarbosJobs) | ❌ | August 15, 2023 |
 | Amazon | Google Ventures, Kleiner Perkins | [Software Development Engineer Internship - 2024 (US)](https://www.amazon.jobs/en/teams/internships-for-students?offset=0&result_limit=10&sort=relevant&country%5B%5D=USA&distanceType=Mi&radius=24km&latitude=&longitude=&loc_group_id=&loc_query=&base_query=&city=&country=&region=&county=&query_options=&?utm_source=CarbosJobs) | ✅ | August 15, 2023 |
 | Allegion |  | [Summer Intern - Mechanical Engineer](https://allegion.wd5.myworkdayjobs.com/careers/job/Princeton-IL/Summer-Intern---Mechanical-Engineer_JR26787?utm_source=CarbosJobs) | ✅ | August 15, 2023 |
 | Allegion |  | [Summer Intern – Product Cybersecurity Engineer](https://allegion.wd5.myworkdayjobs.com/careers/job/Indianapolis-IN---Hague-Rd/Summer-Intern---Product-Cybersecurity-Engineer_JR26698?utm_source=CarbosJobs) | ✅ | August 15, 2023 |
@@ -161,8 +165,8 @@
 | webfx.com |  | [Web Developer Internship](https://jobs.lever.co/webfx/1032ba2b-a4fc-4625-83d5-34f43063de7b?utm_source=CarbosJobs) | ✅ | June 21, 2023 |
 | webfx.com |  | [Business Data Analyst Internship](https://jobs.lever.co/webfx/cf2e63c1-94ba-4478-b1cd-acc54cadfc75?utm_source=CarbosJobs) | ✅ | June 21, 2023 |
 | Verkada | Google Ventures, Tiger Global, Sequoia | [Technical Support Engineering Intern - Spring 2024](https://jobs.lever.co/verkada/7ccd1de5-19b2-45f5-85df-04dcc87c9f3b?utm_source=CarbosJobs) | ✅ | June 21, 2023 |
-| The Block | A16Z, Sequoia | [Research Intern - Data](https://jobs.lever.co/theblockcrypto/00ecc02c-b30e-4d1b-a02b-2f400e53e66a?utm_source=CarbosJobs) | ✅ | June 21, 2023 |
 | The Block | A16Z, Sequoia | [Research Intern](https://jobs.lever.co/theblockcrypto/42151f4b-e8eb-4fb1-80dc-c62530ef0870?utm_source=CarbosJobs) | ✅ | June 21, 2023 |
+| The Block | A16Z, Sequoia | [Research Intern - Data](https://jobs.lever.co/theblockcrypto/00ecc02c-b30e-4d1b-a02b-2f400e53e66a?utm_source=CarbosJobs) | ✅ | June 21, 2023 |
 | Gate.io | Sequoia | [Market research Intern](https://jobs.lever.co/gate.io/cc590402-eb67-4e2b-9c67-308d2473cd4a?utm_source=CarbosJobs) | ✅ | June 21, 2023 |
 | CertiK | Tiger Global, Sequoia | [Research Analyst Intern](https://jobs.lever.co/certik/277fc381-3f3f-491c-879f-be48850e60ff?utm_source=CarbosJobs) | ❌ | June 21, 2023 |
 | CertiK | Tiger Global, Sequoia | [Platform Engineering Intern](https://jobs.lever.co/certik/095fdcff-99e8-408d-bb8a-e638e44d0b40?utm_source=CarbosJobs) | ✅ | June 21, 2023 |
@@ -180,5 +184,5 @@
 | MosaicML | Tiger Global, Sequoia | [Software Engineer Intern](https://boards.greenhouse.io/mosaicml/jobs/4133756004?utm_source=CarbosJobs) | ❌ | June 21, 2023 |
 | Upstart | Kleiner Perkins | [Research Scientist Internship](https://www.upstart.com/careers/5051193/apply?gh_jid=5051193?utm_source=CarbosJobs) | ❌ | June 21, 2023 |
 | Faire |  | [Data Scientist - Intern](https://boards.greenhouse.io/faire/jobs/6683906002?gh_jid=6683906002?utm_source=CarbosJobs) | ✅ | June 21, 2023 |
-| Capstone | Kleiner Perkins, Sequoia | [2024 Summer Internship - Quantitative Risk - NYC](https://boards.greenhouse.io/capstoneinvestmentadvisors/jobs/6787732002?utm_source=CarbosJobs) | ✅ | June 21, 2023 |
+| Capstone | Kleiner Perkins, Sequoia | [2024 Summer Internship - Quantitative Risk - NYC](https://boards.greenhouse.io/capstoneinvestmentadvisors/jobs/6787732002?utm_source=CarbosJobs) | ❌ | June 21, 2023 |
 | Capstone | Kleiner Perkins, Sequoia | [2024 Summer Internship - Software Engineer - NYC](https://boards.greenhouse.io/capstoneinvestmentadvisors/jobs/6784275002?utm_source=CarbosJobs) | ✅ | June 21, 2023 |
