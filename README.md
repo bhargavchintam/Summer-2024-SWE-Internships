@@ -22,6 +22,7 @@
 
 | Company | Investors | Title | Status | Added On |
 | ------- | ----------| ----- | ------ |--------- |
+| Virtu Financial | Goldman Sachs | [Software Developer Intern](https://boards.greenhouse.io/virtu/jobs/6771390002?utm_source=CarbosJobs) | ✅ | August 23, 2023 |
 | Nvidia | Google Ventures, Sequoia | [Software Program Management Intern, Automotive - Summer 2024](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Program-Management-Intern--Automotive---Summer-2024_JR1969895-1?utm_source=CarbosJobs) | ✅ | August 23, 2023 |
 | Teledyne | A16Z, Sequoia | [Computer Engineering Intern](https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Lincoln-NE/Computer-Engineering-Intern_REQ20909?utm_source=CarbosJobs) | ✅ | August 22, 2023 |
 | Scale AI | A16Z, Google Ventures, Kleiner Perkins | [Software Engineering Intern](https://boards.greenhouse.io/scaleai/jobs/4305863005?utm_source=CarbosJobs) | ✅ | August 22, 2023 |
