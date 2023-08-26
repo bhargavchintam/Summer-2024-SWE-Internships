@@ -202,12 +202,12 @@
 | Apple | Google Ventures, Kleiner Perkins | [Software Engineering Internships](https://jobs.apple.com/en-us/search?search=internship%20summer&sort=relevance&key=students&location=united-states-usa?utm_source=CarbosJobs) | ✅ | June 21, 2023 |
 | Second Order Effects | Sequoia | [Electrical Engineering Intern (August - December)](https://boards.greenhouse.io/soeffects/jobs/5562680003?utm_source=CarbosJobs) | ❌ | June 21, 2023 |
 | Second Order Effects | Sequoia | [Electrical Engineering Intern (August - December)](https://boards.greenhouse.io/soeffects/jobs/5562693003?utm_source=CarbosJobs) | ❌ | June 21, 2023 |
+| Neuralink | Google Ventures | [Software Engineer Internship](https://boards.greenhouse.io/neuralink/jobs/5552197003?utm_source=CarbosJobs) | ❌ | June 21, 2023 |
 | Neuralink | Google Ventures | [Quality Engineering Internship](https://boards.greenhouse.io/neuralink/jobs/5552854003?utm_source=CarbosJobs) | ❌ | June 21, 2023 |
 | Neuralink | Google Ventures | [Software Engineer Internship](https://boards.greenhouse.io/neuralink/jobs/5285389003?utm_source=CarbosJobs) | ❌ | June 21, 2023 |
-| Neuralink | Google Ventures | [Software Engineer Internship](https://boards.greenhouse.io/neuralink/jobs/5552197003?utm_source=CarbosJobs) | ❌ | June 21, 2023 |
 | MosaicML | Tiger Global, Sequoia | [Research Scientist Intern](https://boards.greenhouse.io/mosaicml/jobs/4170454004?utm_source=CarbosJobs) | ✅ | June 21, 2023 |
 | MosaicML | Tiger Global, Sequoia | [Software Engineer Intern](https://boards.greenhouse.io/mosaicml/jobs/4133756004?utm_source=CarbosJobs) | ❌ | June 21, 2023 |
 | Upstart | Kleiner Perkins | [Research Scientist Internship](https://www.upstart.com/careers/5051193/apply?gh_jid=5051193?utm_source=CarbosJobs) | ❌ | June 21, 2023 |
 | Faire |  | [Data Scientist - Intern](https://boards.greenhouse.io/faire/jobs/6683906002?gh_jid=6683906002?utm_source=CarbosJobs) | ✅ | June 21, 2023 |
-| Capstone | Kleiner Perkins, Sequoia | [2024 Summer Internship - Quantitative Risk - NYC](https://boards.greenhouse.io/capstoneinvestmentadvisors/jobs/6787732002?utm_source=CarbosJobs) | ❌ | June 21, 2023 |
 | Capstone | Kleiner Perkins, Sequoia | [2024 Summer Internship - Software Engineer - NYC](https://boards.greenhouse.io/capstoneinvestmentadvisors/jobs/6784275002?utm_source=CarbosJobs) | ✅ | June 21, 2023 |
+| Capstone | Kleiner Perkins, Sequoia | [2024 Summer Internship - Quantitative Risk - NYC](https://boards.greenhouse.io/capstoneinvestmentadvisors/jobs/6787732002?utm_source=CarbosJobs) | ❌ | June 21, 2023 |
