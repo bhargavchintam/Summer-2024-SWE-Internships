@@ -22,6 +22,15 @@
 
 | Company | Investors | Title | Status | Added On |
 | ------- | ----------| ----- | ------ |--------- |
+| Allegion |  | [Summer Intern - Engineering](https://allegion.wd5.myworkdayjobs.com/careers/job/Colorado-Springs-CO/Summer-Intern---Engineering_JR27069?utm_source=CarbosJobs) | ✅ | August 31, 2023 |
+| Allegion |  | [Summer Intern – Mechanical Engineer](https://allegion.wd5.myworkdayjobs.com/careers/job/Indianapolis-IN---Hague-Rd/Summer-Intern---Mechanical-Engineer_JR27076?utm_source=CarbosJobs) | ✅ | August 31, 2023 |
+| Tanium | Goldman Sachs, Tiger Global, Sequoia | [Software Engineer Intern](https://www.tanium.com/careers/5322160?gh_jid=5322160?utm_source=CarbosJobs) | ✅ | August 30, 2023 |
+| Tanium | Goldman Sachs, Tiger Global, Sequoia | [Business Data & Analytics Intern](https://www.tanium.com/careers/5318898?gh_jid=5318898?utm_source=CarbosJobs) | ✅ | August 30, 2023 |
+| Schweitzer Engineering Laboratories |  | [Power Engineering Intern](https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Pullman/Power-Engineering-Intern_2023-12785?utm_source=CarbosJobs) | ✅ | August 30, 2023 |
+| Schweitzer Engineering Laboratories |  | [Electrical Engineering Intern](https://selinc.wd1.myworkdayjobs.com/SEL/job/Georgia---Alpharetta/Electrical-Engineering-Intern_2023-12836?utm_source=CarbosJobs) | ✅ | August 30, 2023 |
+| Schweitzer Engineering Laboratories |  | [Electrical Engineering Intern](https://selinc.wd1.myworkdayjobs.com/SEL/job/Illinois---Fairview-Heights/Electrical-Engineering-Intern_2023-12863?utm_source=CarbosJobs) | ✅ | August 30, 2023 |
+| Schweitzer Engineering Laboratories |  | [Power Engineering Intern](https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Pullman/Power-Engineering-Intern_2023-12853?utm_source=CarbosJobs) | ✅ | August 30, 2023 |
+| Schweitzer Engineering Laboratories |  | [Software Engineer Intern](https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Pullman/Software-Engineer-Intern_2023-12812-1?utm_source=CarbosJobs) | ✅ | August 30, 2023 |
 | Schweitzer Engineering Laboratories |  | [Electrical Engineering Intern](https://selinc.wd1.myworkdayjobs.com/SEL/job/Texas---Houston/Electrical-Engineering-Intern_2023-12845?utm_source=CarbosJobs) | ✅ | August 30, 2023 |
 | Schweitzer Engineering Laboratories |  | [Embedded Software Engineer Intern](https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Spokane-Valley/Embedded-Software-Engineer-Intern_2023-12833?utm_source=CarbosJobs) | ✅ | August 30, 2023 |
 | Schweitzer Engineering Laboratories |  | [Software Engineer Intern](https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Spokane-Valley/Software-Engineer-Intern_2023-12799?utm_source=CarbosJobs) | ✅ | August 30, 2023 |
@@ -34,8 +43,8 @@
 | Allegion |  | [Summer Intern - Process Engineering](https://allegion.wd5.myworkdayjobs.com/careers/job/Princeton-IL/Summer-Intern---Process-Engineering_JR27020?utm_source=CarbosJobs) | ✅ | August 30, 2023 |
 | Chamberlain Group | Kleiner Perkins, Sequoia | [Software Engineer Intern (AI, ML & Computer Vision)](https://chamberlain.wd1.myworkdayjobs.com/Chamberlain_Group/job/Oak-Brook-IL/Intern--Machine-Learning--Computer-Vision--and-AI--Summer-2024-_JR26221?utm_source=CarbosJobs) | ✅ | August 29, 2023 |
 | Schweitzer Engineering Laboratories |  | [Software Engineer Intern](https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Pullman/Software-Engineer-Intern_2023-12780?utm_source=CarbosJobs) | ✅ | August 29, 2023 |
-| Schweitzer Engineering Laboratories |  | [Electrical Engineering Intern](https://selinc.wd1.myworkdayjobs.com/SEL/job/Colorado---Lakewood/Engineering-Intern_2023-12824-1?utm_source=CarbosJobs) | ✅ | August 29, 2023 |
-| Schweitzer Engineering Laboratories |  | [Electrical Engineering Specialist Intern](https://selinc.wd1.myworkdayjobs.com/SEL/job/Colorado---Lakewood/Electrical-Engineering-Specialist-Intern_2023-12823?utm_source=CarbosJobs) | ✅ | August 29, 2023 |
+| Schweitzer Engineering Laboratories |  | [Electrical Engineering Intern](https://selinc.wd1.myworkdayjobs.com/SEL/job/Colorado---Lakewood/Engineering-Intern_2023-12824-1?utm_source=CarbosJobs) | ❌ | August 29, 2023 |
+| Schweitzer Engineering Laboratories |  | [Electrical Engineering Specialist Intern](https://selinc.wd1.myworkdayjobs.com/SEL/job/Colorado---Lakewood/Electrical-Engineering-Specialist-Intern_2023-12823?utm_source=CarbosJobs) | ❌ | August 29, 2023 |
 | Lucid Motors | Sequoia | [Intern, Software Quality Assurance, Data Analyst, Summer 2024](https://jobs.lever.co/lucidmotors/c066f600-4e24-492d-b3c9-186135fe1681?utm_source=CarbosJobs) | ✅ | August 29, 2023 |
 | Lucid Motors | Sequoia | [Intern Charging System Validation Engineer, Summer 2024](https://jobs.lever.co/lucidmotors/a1e4c678-0ef3-46e5-8821-917cc2cacfb7?utm_source=CarbosJobs) | ✅ | August 29, 2023 |
 | Lucid Motors | Sequoia | [Intern, Automotive Software Test and Verification – Summer 2024](https://jobs.lever.co/lucidmotors/86bfb60a-847d-41eb-9311-7c22de739812?utm_source=CarbosJobs) | ✅ | August 29, 2023 |
@@ -92,7 +101,7 @@
 | Chamberlain Group | Kleiner Perkins, Sequoia | [Intern, Firmware Engineering (Summer 2024)](https://chamberlain.wd1.myworkdayjobs.com/Chamberlain_Group/job/Oak-Brook-IL/Intern--Firmware-Engineering--Summer-2024-_JR26222-1?utm_source=CarbosJobs) | ✅ | August 17, 2023 |
 | BorgWarner | Kleiner Perkins | [Global Advanced Manufacturing Engineering Support Professional Internship (m/f/d)](https://borgwarner.wd5.myworkdayjobs.com/BorgWarner_Careers/job/Viana-do-Castelo-I---Portugal/Global-Advanced-Manufacturing-Engineering-Support-Professional-Internship--m-f-d-_R2023-5845?utm_source=CarbosJobs) | ✅ | August 17, 2023 |
 | Schweitzer Engineering Laboratories |  | [Application Engineering Intern](https://selinc.wd1.myworkdayjobs.com/SEL/job/Peru---Lima/Application-Engineering-Intern_2023-12724?utm_source=CarbosJobs) | ❌ | August 17, 2023 |
-| Schweitzer Engineering Laboratories |  | [Hardware Engineering Intern](https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Pullman/Hardware-Engineering-Intern_2023-11973-1?utm_source=CarbosJobs) | ❌ | August 17, 2023 |
+| Schweitzer Engineering Laboratories |  | [Hardware Engineering Intern](https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Pullman/Hardware-Engineering-Intern_2023-11973-1?utm_source=CarbosJobs) | ✅ | August 17, 2023 |
 | Allegion |  | [Summer Intern - Product Data](https://allegion.wd5.myworkdayjobs.com/careers/job/Indianapolis-IN---Hague-Rd/Summer-Intern---Product-Data_JR26935?utm_source=CarbosJobs) | ✅ | August 17, 2023 |
 | Allegion |  | [Summer Intern - Quality Engineering](https://allegion.wd5.myworkdayjobs.com/careers/job/Carmel-IN/Summer-Intern---Quality-Engineering_JR26914?utm_source=CarbosJobs) | ❌ | August 17, 2023 |
 | Verkada | Google Ventures, Tiger Global, Sequoia | [Software Engineering Intern, Security - Summer 2024](https://jobs.lever.co/verkada/30f11a8c-051d-4966-be60-5d8e65e4c4a7?utm_source=CarbosJobs) | ✅ | August 16, 2023 |
@@ -112,7 +121,7 @@
 | Allegion |  | [Summer Intern – Data Migration Specialist](https://allegion.wd5.myworkdayjobs.com/careers/job/Carmel-IN/Summer-Intern---Data-Migration-Specialist_JR26694?utm_source=CarbosJobs) | ✅ | August 15, 2023 |
 | Schweitzer Engineering Laboratories |  | [Test Engineering Intern](https://selinc.wd1.myworkdayjobs.com/SEL/job/Indiana---West-Lafayette/Test-Engineering-Intern_2023-12215?utm_source=CarbosJobs) | ✅ | August 14, 2023 |
 | Schweitzer Engineering Laboratories |  | [Electrical Engineering Intern](https://selinc.wd1.myworkdayjobs.com/SEL/job/California---Vacaville/Electrical-Engineering-Intern_2023-11828?utm_source=CarbosJobs) | ✅ | August 14, 2023 |
-| Schweitzer Engineering Laboratories |  | [Electrical Engineering Specialist Intern](https://selinc.wd1.myworkdayjobs.com/SEL/job/Illinois---Hawthorn-Woods/Electrical-Engineering-Specialist-Intern_2023-11846?utm_source=CarbosJobs) | ✅ | August 14, 2023 |
+| Schweitzer Engineering Laboratories |  | [Electrical Engineering Specialist Intern](https://selinc.wd1.myworkdayjobs.com/SEL/job/Illinois---Hawthorn-Woods/Electrical-Engineering-Specialist-Intern_2023-11846?utm_source=CarbosJobs) | ❌ | August 14, 2023 |
 | Schweitzer Engineering Laboratories |  | [Application Engineering Intern](https://selinc.wd1.myworkdayjobs.com/SEL/job/Pennsylvania---King-of-Prussia/Application-Engineering-Intern_2023-12309?utm_source=CarbosJobs) | ✅ | August 14, 2023 |
 | Verkada | Google Ventures, Tiger Global, Sequoia | [Software Engineering Intern, Frontend - Summer 2024](https://jobs.lever.co/verkada/fd9a050a-d55d-4b68-97c1-b940c5a0b806?utm_source=CarbosJobs) | ✅ | August 12, 2023 |
 | Verkada | Google Ventures, Tiger Global, Sequoia | [Software Engineering Intern, Embedded - Summer 2024](https://jobs.lever.co/verkada/c912b48a-b562-4691-a245-a9d30264247a?utm_source=CarbosJobs) | ✅ | August 12, 2023 |
@@ -222,18 +231,18 @@
 | The Block | A16Z, Sequoia | [Research Intern](https://jobs.lever.co/theblockcrypto/42151f4b-e8eb-4fb1-80dc-c62530ef0870?utm_source=CarbosJobs) | ✅ | June 21, 2023 |
 | The Block | A16Z, Sequoia | [Research Intern - Data](https://jobs.lever.co/theblockcrypto/00ecc02c-b30e-4d1b-a02b-2f400e53e66a?utm_source=CarbosJobs) | ✅ | June 21, 2023 |
 | Gate.io | Sequoia | [Market research Intern](https://jobs.lever.co/gate.io/cc590402-eb67-4e2b-9c67-308d2473cd4a?utm_source=CarbosJobs) | ✅ | June 21, 2023 |
+| CertiK | Tiger Global, Sequoia | [Research Analyst Intern](https://jobs.lever.co/certik/277fc381-3f3f-491c-879f-be48850e60ff?utm_source=CarbosJobs) | ❌ | June 21, 2023 |
 | CertiK | Tiger Global, Sequoia | [Platform Engineering Intern](https://jobs.lever.co/certik/095fdcff-99e8-408d-bb8a-e638e44d0b40?utm_source=CarbosJobs) | ✅ | June 21, 2023 |
 | CertiK | Tiger Global, Sequoia | [Full Stack Internship - Matrix](https://jobs.lever.co/certik/ca67aab6-9b8b-4c2f-ad80-ff5855292f48?utm_source=CarbosJobs) | ❌ | June 21, 2023 |
-| CertiK | Tiger Global, Sequoia | [Research Analyst Intern](https://jobs.lever.co/certik/277fc381-3f3f-491c-879f-be48850e60ff?utm_source=CarbosJobs) | ❌ | June 21, 2023 |
+| The Boring Company | Founders Fund, Sequoia | [Integration Engineering Intern](https://jobs.lever.co/boringcompany/1c1ee776-cbf4-4cf0-bfb0-a446ed89ee29?utm_source=CarbosJobs) | ✅ | June 21, 2023 |
 | The Boring Company | Founders Fund, Sequoia | [Civil Engineering Intern](https://jobs.lever.co/boringcompany/f6d53f8a-d4da-4212-8a40-3f724ba07b1f?utm_source=CarbosJobs) | ✅ | June 21, 2023 |
 | The Boring Company | Founders Fund, Sequoia | [Tunnel Engineering Intern](https://jobs.lever.co/boringcompany/f07e7532-a6e0-45c9-8328-c521bb68f105?utm_source=CarbosJobs) | ✅ | June 21, 2023 |
-| The Boring Company | Founders Fund, Sequoia | [Integration Engineering Intern](https://jobs.lever.co/boringcompany/1c1ee776-cbf4-4cf0-bfb0-a446ed89ee29?utm_source=CarbosJobs) | ✅ | June 21, 2023 |
 | Apple | Google Ventures, Kleiner Perkins | [Software Engineering Internships](https://jobs.apple.com/en-us/search?search=internship%20summer&sort=relevance&key=students&location=united-states-usa?utm_source=CarbosJobs) | ✅ | June 21, 2023 |
-| Second Order Effects | Sequoia | [Electrical Engineering Intern (August - December)](https://boards.greenhouse.io/soeffects/jobs/5562693003?utm_source=CarbosJobs) | ❌ | June 21, 2023 |
 | Second Order Effects | Sequoia | [Electrical Engineering Intern (August - December)](https://boards.greenhouse.io/soeffects/jobs/5562680003?utm_source=CarbosJobs) | ❌ | June 21, 2023 |
-| Neuralink | Google Ventures | [Software Engineer Internship](https://boards.greenhouse.io/neuralink/jobs/5552197003?utm_source=CarbosJobs) | ❌ | June 21, 2023 |
+| Second Order Effects | Sequoia | [Electrical Engineering Intern (August - December)](https://boards.greenhouse.io/soeffects/jobs/5562693003?utm_source=CarbosJobs) | ❌ | June 21, 2023 |
 | Neuralink | Google Ventures | [Quality Engineering Internship](https://boards.greenhouse.io/neuralink/jobs/5552854003?utm_source=CarbosJobs) | ❌ | June 21, 2023 |
 | Neuralink | Google Ventures | [Software Engineer Internship](https://boards.greenhouse.io/neuralink/jobs/5285389003?utm_source=CarbosJobs) | ❌ | June 21, 2023 |
+| Neuralink | Google Ventures | [Software Engineer Internship](https://boards.greenhouse.io/neuralink/jobs/5552197003?utm_source=CarbosJobs) | ❌ | June 21, 2023 |
 | MosaicML | Tiger Global, Sequoia | [Research Scientist Intern](https://boards.greenhouse.io/mosaicml/jobs/4170454004?utm_source=CarbosJobs) | ✅ | June 21, 2023 |
 | MosaicML | Tiger Global, Sequoia | [Software Engineer Intern](https://boards.greenhouse.io/mosaicml/jobs/4133756004?utm_source=CarbosJobs) | ❌ | June 21, 2023 |
 | Upstart | Kleiner Perkins | [Research Scientist Internship](https://www.upstart.com/careers/5051193/apply?gh_jid=5051193?utm_source=CarbosJobs) | ❌ | June 21, 2023 |
