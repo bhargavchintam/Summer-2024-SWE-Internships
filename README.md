@@ -22,6 +22,7 @@
 
 | Company | Investors | Title | Status | Added On |
 | ------- | ----------| ----- | ------ |--------- |
+| Neuralink | Google Ventures | [Engineering Intern (Neuroengineering)](https://boards.greenhouse.io/neuralink/jobs/5583062003?utm_source=CarbosJobs) | ✅ | September 04, 2023 |
 | RVO Health | Kleiner Perkins, Sequoia | [2024 Early Career Program: Software Engineering Intern](https://boards.greenhouse.io/rvohealth/jobs/4306588005?utm_source=CarbosJobs) | ✅ | September 01, 2023 |
 | RVO Health | Kleiner Perkins, Sequoia | [2024 Early Career Program: Data Analyst Intern](https://boards.greenhouse.io/rvohealth/jobs/4306587005?utm_source=CarbosJobs) | ✅ | September 01, 2023 |
 | SeatGeek | Tiger Global | [Software Engineer - Internship](https://seatgeek.com/jobs/5327968?gh_jid=5327968?utm_source=CarbosJobs) | ✅ | September 01, 2023 |
@@ -158,7 +159,7 @@
 | Belvedere Trading | Sequoia | [Software Engineer Intern - Summer 2024 Chicago](https://jobs.lever.co/belvederetrading/f63b36b4-a5b6-4697-97cf-2af02a47e9d9?utm_source=CarbosJobs) | ✅ | August 05, 2023 |
 | Belvedere Trading | Sequoia | [Software Engineer Intern - Summer 2024 Boulder](https://jobs.lever.co/belvederetrading/1dfa7e9c-7e30-4a11-a489-bd777f112848?utm_source=CarbosJobs) | ✅ | August 05, 2023 |
 | Belvedere Trading | Sequoia | [Quantitative Researcher Intern - Summer 2024](https://jobs.lever.co/belvederetrading/80ac6b59-f376-42a1-a32d-afefd6233082?utm_source=CarbosJobs) | ✅ | August 05, 2023 |
-| BorgWarner | Kleiner Perkins | [Quality Engineering Intern](https://borgwarner.wd5.myworkdayjobs.com/BorgWarner_Careers/job/Bellwood---Illinois---USA/Intern_R2023-5530?utm_source=CarbosJobs) | ✅ | August 04, 2023 |
+| BorgWarner | Kleiner Perkins | [Quality Engineering Intern](https://borgwarner.wd5.myworkdayjobs.com/BorgWarner_Careers/job/Bellwood---Illinois---USA/Intern_R2023-5530?utm_source=CarbosJobs) | ❌ | August 04, 2023 |
 | Virtu Financial | Goldman Sachs | [Internship - Quantitative Trading](https://boards.greenhouse.io/virtu/jobs/6702651002?utm_source=CarbosJobs) | ✅ | August 03, 2023 |
 | Virtu Financial | Goldman Sachs | [Internship - Quantitative Strategist](https://boards.greenhouse.io/virtu/jobs/6864860002?utm_source=CarbosJobs) | ✅ | August 03, 2023 |
 | Virtu Financial | Goldman Sachs | [Internship - Developer](https://boards.greenhouse.io/virtu/jobs/6771390002?utm_source=CarbosJobs) | ✅ | August 03, 2023 |
@@ -248,12 +249,12 @@
 | CertiK | Tiger Global, Sequoia | [Full Stack Internship - Matrix](https://jobs.lever.co/certik/ca67aab6-9b8b-4c2f-ad80-ff5855292f48?utm_source=CarbosJobs) | ❌ | June 21, 2023 |
 | CertiK | Tiger Global, Sequoia | [Research Analyst Intern](https://jobs.lever.co/certik/277fc381-3f3f-491c-879f-be48850e60ff?utm_source=CarbosJobs) | ❌ | June 21, 2023 |
 | CertiK | Tiger Global, Sequoia | [Platform Engineering Intern](https://jobs.lever.co/certik/095fdcff-99e8-408d-bb8a-e638e44d0b40?utm_source=CarbosJobs) | ✅ | June 21, 2023 |
-| The Boring Company | Founders Fund, Sequoia | [Civil Engineering Intern](https://jobs.lever.co/boringcompany/f6d53f8a-d4da-4212-8a40-3f724ba07b1f?utm_source=CarbosJobs) | ✅ | June 21, 2023 |
 | The Boring Company | Founders Fund, Sequoia | [Tunnel Engineering Intern](https://jobs.lever.co/boringcompany/f07e7532-a6e0-45c9-8328-c521bb68f105?utm_source=CarbosJobs) | ✅ | June 21, 2023 |
 | The Boring Company | Founders Fund, Sequoia | [Integration Engineering Intern](https://jobs.lever.co/boringcompany/1c1ee776-cbf4-4cf0-bfb0-a446ed89ee29?utm_source=CarbosJobs) | ✅ | June 21, 2023 |
+| The Boring Company | Founders Fund, Sequoia | [Civil Engineering Intern](https://jobs.lever.co/boringcompany/f6d53f8a-d4da-4212-8a40-3f724ba07b1f?utm_source=CarbosJobs) | ✅ | June 21, 2023 |
 | Apple | Google Ventures, Kleiner Perkins | [Software Engineering Internships](https://jobs.apple.com/en-us/search?search=internship%20summer&sort=relevance&key=students&location=united-states-usa?utm_source=CarbosJobs) | ✅ | June 21, 2023 |
-| Second Order Effects | Sequoia | [Electrical Engineering Intern (August - December)](https://boards.greenhouse.io/soeffects/jobs/5562693003?utm_source=CarbosJobs) | ❌ | June 21, 2023 |
 | Second Order Effects | Sequoia | [Electrical Engineering Intern (August - December)](https://boards.greenhouse.io/soeffects/jobs/5562680003?utm_source=CarbosJobs) | ❌ | June 21, 2023 |
+| Second Order Effects | Sequoia | [Electrical Engineering Intern (August - December)](https://boards.greenhouse.io/soeffects/jobs/5562693003?utm_source=CarbosJobs) | ❌ | June 21, 2023 |
 | Neuralink | Google Ventures | [Software Engineer Internship](https://boards.greenhouse.io/neuralink/jobs/5552197003?utm_source=CarbosJobs) | ❌ | June 21, 2023 |
 | Neuralink | Google Ventures | [Quality Engineering Internship](https://boards.greenhouse.io/neuralink/jobs/5552854003?utm_source=CarbosJobs) | ❌ | June 21, 2023 |
 | Neuralink | Google Ventures | [Software Engineer Internship](https://boards.greenhouse.io/neuralink/jobs/5285389003?utm_source=CarbosJobs) | ❌ | June 21, 2023 |
