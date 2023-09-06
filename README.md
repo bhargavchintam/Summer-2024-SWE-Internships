@@ -2,7 +2,7 @@
 
 :star: **This board is updated daily using a custom job monitor that watches companies vetted for growth, student engagement, & innovation**
 
-:pushpin: This is just 10% of the job data on [Carbos](https://www.carbosjobs.com/?utm_source=github&utm_medium=SWEinternrepo), a free platform that has features such as
+:pushpin: This is just 10% of the job data on [Carbos](https://www.carbosjobs.com/?utm_source=github&utm_medium=SWEinternrepo), a free platform that has features such as
 - A live job board with no sponsored job postings
 - Custom filters
 - Pipeline to recruiters
@@ -22,6 +22,10 @@
 
 | Company | Investors | Title | Status | Added On |
 | ------- | ----------| ----- | ------ |--------- |
+| HubSpot | Accel, Google Ventures, Salesforce Ventures | [Hubspot Software Engineer Internship & Placement Program (UK)](https://www.hubspot.com/careers/jobs/5335588?gh_jid=5335588?utm_source=CarbosJobs) | ✅ | September 06, 2023 |
+| HubSpot | Accel, Google Ventures, Salesforce Ventures | [Hubspot Software Engineer Internship & Placement Program (Ireland)](https://www.hubspot.com/careers/jobs/5335583?gh_jid=5335583?utm_source=CarbosJobs) | ✅ | September 06, 2023 |
+| HubSpot | Accel, Google Ventures, Salesforce Ventures | [Hubspot Software Engineer Internship & Placement Program (Ireland)](https://www.hubspot.com/careers/jobs/5269264?gh_jid=5269264?utm_source=CarbosJobs) | ✅ | September 06, 2023 |
+| HubSpot | Accel, Google Ventures, Salesforce Ventures | [Hubspot Software Engineer Internship & Placement Program (Germany)](https://www.hubspot.com/careers/jobs/5335580?gh_jid=5335580?utm_source=CarbosJobs) | ✅ | September 06, 2023 |
 | Virtu Financial | Goldman Sachs | [Internship - Quantitative Trading](https://boards.greenhouse.io/virtu/jobs/6919426002?utm_source=CarbosJobs) | ✅ | September 06, 2023 |
 | Virtu Financial | Goldman Sachs | [Internship - Developer](https://boards.greenhouse.io/virtu/jobs/6919623002?utm_source=CarbosJobs) | ✅ | September 06, 2023 |
 | Veritas | Kleiner Perkins, Sequoia | [Summer 2024- Software Engineering Intern- Undergraduate](https://veritas.wd1.myworkdayjobs.com/careers/job/US---Remote/Summer-2024--Software-Engineering-Intern--Undergraduate_62097?utm_source=CarbosJobs) | ✅ | September 06, 2023 |
@@ -141,8 +145,8 @@
 | Allegion |  | [Summer Intern – Product Cybersecurity Engineer](https://allegion.wd5.myworkdayjobs.com/careers/job/Indianapolis-IN---Hague-Rd/Summer-Intern---Product-Cybersecurity-Engineer_JR26698?utm_source=CarbosJobs) | ✅ | August 15, 2023 |
 | Allegion |  | [Summer Intern - Mechanical Engineer](https://allegion.wd5.myworkdayjobs.com/careers/job/Farmington-CT/Summer-Intern---Mechanical-Engineer_JR26799?utm_source=CarbosJobs) | ✅ | August 15, 2023 |
 | Allegion |  | [Summer Intern – Data Migration Specialist](https://allegion.wd5.myworkdayjobs.com/careers/job/Carmel-IN/Summer-Intern---Data-Migration-Specialist_JR26694?utm_source=CarbosJobs) | ✅ | August 15, 2023 |
-| Schweitzer Engineering Laboratories |  | [Test Engineering Intern](https://selinc.wd1.myworkdayjobs.com/SEL/job/Indiana---West-Lafayette/Test-Engineering-Intern_2023-12215?utm_source=CarbosJobs) | ❌ | August 14, 2023 |
-| Schweitzer Engineering Laboratories |  | [Electrical Engineering Intern](https://selinc.wd1.myworkdayjobs.com/SEL/job/California---Vacaville/Electrical-Engineering-Intern_2023-11828?utm_source=CarbosJobs) | ❌ | August 14, 2023 |
+| Schweitzer Engineering Laboratories |  | [Test Engineering Intern](https://selinc.wd1.myworkdayjobs.com/SEL/job/Indiana---West-Lafayette/Test-Engineering-Intern_2023-12215?utm_source=CarbosJobs) | ✅ | August 14, 2023 |
+| Schweitzer Engineering Laboratories |  | [Electrical Engineering Intern](https://selinc.wd1.myworkdayjobs.com/SEL/job/California---Vacaville/Electrical-Engineering-Intern_2023-11828?utm_source=CarbosJobs) | ✅ | August 14, 2023 |
 | Schweitzer Engineering Laboratories |  | [Electrical Engineering Specialist Intern](https://selinc.wd1.myworkdayjobs.com/SEL/job/Illinois---Hawthorn-Woods/Electrical-Engineering-Specialist-Intern_2023-11846?utm_source=CarbosJobs) | ✅ | August 14, 2023 |
 | Schweitzer Engineering Laboratories |  | [Application Engineering Intern](https://selinc.wd1.myworkdayjobs.com/SEL/job/Pennsylvania---King-of-Prussia/Application-Engineering-Intern_2023-12309?utm_source=CarbosJobs) | ✅ | August 14, 2023 |
 | Verkada | Google Ventures, Tiger Global, Sequoia | [Software Engineering Intern, Frontend - Summer 2024](https://jobs.lever.co/verkada/fd9a050a-d55d-4b68-97c1-b940c5a0b806?utm_source=CarbosJobs) | ✅ | August 12, 2023 |
@@ -262,9 +266,9 @@
 | Apple | Google Ventures, Kleiner Perkins | [Software Engineering Internships](https://jobs.apple.com/en-us/search?search=internship%20summer&sort=relevance&key=students&location=united-states-usa?utm_source=CarbosJobs) | ✅ | June 21, 2023 |
 | Second Order Effects | Sequoia | [Electrical Engineering Intern (August - December)](https://boards.greenhouse.io/soeffects/jobs/5562680003?utm_source=CarbosJobs) | ❌ | June 21, 2023 |
 | Second Order Effects | Sequoia | [Electrical Engineering Intern (August - December)](https://boards.greenhouse.io/soeffects/jobs/5562693003?utm_source=CarbosJobs) | ❌ | June 21, 2023 |
-| Neuralink | Google Ventures | [Software Engineer Internship](https://boards.greenhouse.io/neuralink/jobs/5552197003?utm_source=CarbosJobs) | ❌ | June 21, 2023 |
 | Neuralink | Google Ventures | [Quality Engineering Internship](https://boards.greenhouse.io/neuralink/jobs/5552854003?utm_source=CarbosJobs) | ❌ | June 21, 2023 |
 | Neuralink | Google Ventures | [Software Engineer Internship](https://boards.greenhouse.io/neuralink/jobs/5285389003?utm_source=CarbosJobs) | ❌ | June 21, 2023 |
+| Neuralink | Google Ventures | [Software Engineer Internship](https://boards.greenhouse.io/neuralink/jobs/5552197003?utm_source=CarbosJobs) | ❌ | June 21, 2023 |
 | MosaicML | Tiger Global, Sequoia | [Research Scientist Intern](https://boards.greenhouse.io/mosaicml/jobs/4170454004?utm_source=CarbosJobs) | ✅ | June 21, 2023 |
 | MosaicML | Tiger Global, Sequoia | [Software Engineer Intern](https://boards.greenhouse.io/mosaicml/jobs/4133756004?utm_source=CarbosJobs) | ❌ | June 21, 2023 |
 | Upstart | Kleiner Perkins | [Research Scientist Internship](https://www.upstart.com/careers/5051193/apply?gh_jid=5051193?utm_source=CarbosJobs) | ❌ | June 21, 2023 |
