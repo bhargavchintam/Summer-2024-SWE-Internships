@@ -22,6 +22,18 @@
 
 | Company | Investors | Title | Status | Added On |
 | ------- | ----------| ----- | ------ |--------- |
+| Cboe |  | [Cyber Detection and Response Engineering Intern (Year-long Internship)](https://cboe.wd1.myworkdayjobs.com/External_Career_CBOE/job/Chicago-IL/Cyber-Detection-and-Response-Engineering-Intern--Year-long-Internship-_R-3192?utm_source=CarbosJobs) | ✅ | September 08, 2023 |
+| Whatnot | A16Z, Tiger Global | [Software Engineering Intern, Summer 2024](https://boards.greenhouse.io/whatnot/jobs/4957334004?utm_source=CarbosJobs) | ✅ | September 08, 2023 |
+| Schweitzer Engineering Laboratories |  | [Electrical Engineering Specialist Intern](https://selinc.wd1.myworkdayjobs.com/SEL/job/United-States/Electrical-Engineering-Specialist-Intern_2023-12887?utm_source=CarbosJobs) | ✅ | September 07, 2023 |
+| Pimco | Kleiner Perkins, Sequoia | [2024 Masters Summer Intern - Quantitative Research Analyst, Portfolio Management, US](https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Newport-Beach-CA-USA/XMLNAME-2024-Masters-Summer-Intern---Quantitative-Research-Analyst--Portfolio-Management--US_R103311?utm_source=CarbosJobs) | ✅ | September 07, 2023 |
+| Cboe |  | [Market Data & Access Services Intern](https://cboe.wd1.myworkdayjobs.com/External_Career_CBOE/job/New-York-NY/Market-Data---Access-Services-Intern_R-3191?utm_source=CarbosJobs) | ✅ | September 07, 2023 |
+| Cboe |  | [Software Engineer Intern](https://cboe.wd1.myworkdayjobs.com/External_Career_CBOE/job/New-York-NY/Software-Engineer-Intern_R-3180?utm_source=CarbosJobs) | ✅ | September 07, 2023 |
+| Cboe |  | [Software Engineer Intern](https://cboe.wd1.myworkdayjobs.com/External_Career_CBOE/job/Kansas-City-MO/Software-Engineer-Intern_R-3194?utm_source=CarbosJobs) | ✅ | September 07, 2023 |
+| Cboe |  | [Software Engineer Intern](https://cboe.wd1.myworkdayjobs.com/External_Career_CBOE/job/Kansas-City-MO/Software-Engineer-Intern_R-3189?utm_source=CarbosJobs) | ✅ | September 07, 2023 |
+| Cboe |  | [Software Engineer Intern Regulatory ML](https://cboe.wd1.myworkdayjobs.com/External_Career_CBOE/job/Kansas-City-MO/Software-Engineer-Intern-Regulatory-ML_R-3176?utm_source=CarbosJobs) | ✅ | September 07, 2023 |
+| Cboe |  | [Site Reliability Engineer (Cloud) Intern – Regulatory](https://cboe.wd1.myworkdayjobs.com/External_Career_CBOE/job/Kansas-City-MO/Site-Reliability-Engineer--Cloud--Intern---Regulatory_R-3173?utm_source=CarbosJobs) | ✅ | September 07, 2023 |
+| Cboe |  | [Software Engineer Test Intern](https://cboe.wd1.myworkdayjobs.com/External_Career_CBOE/job/Chicago-IL/Software-Engineer-Test-Intern_R-3204?utm_source=CarbosJobs) | ✅ | September 07, 2023 |
+| Cboe |  | [Regulatory Software Engineer QA Intern](https://cboe.wd1.myworkdayjobs.com/External_Career_CBOE/job/Chicago-IL/Regulatory-Software-Engineer-QA-Intern_R-3202?utm_source=CarbosJobs) | ✅ | September 07, 2023 |
 | Nvidia | Google Ventures, Sequoia | [PhD Research Intern - Visual Localisation](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Italy-Remote/PhD-Research-Intern---Visual-Localisation_JR1971080?utm_source=CarbosJobs) | ✅ | September 07, 2023 |
 | Nvidia | Google Ventures, Sequoia | [PhD Research Intern - Video Understanding](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Italy-Remote/PhD-Research-Intern---Video-Understanding_JR1971079?utm_source=CarbosJobs) | ✅ | September 07, 2023 |
 | Humane | Kleiner Perkins, YC | [Firmware Engineering Intern](https://boards.greenhouse.io/humane/jobs/4968822004?utm_source=CarbosJobs) | ✅ | September 07, 2023 |
@@ -171,7 +183,7 @@
 | Verkada | Google Ventures, Tiger Global, Sequoia | [Android Engineering Intern - Summer 2024](https://jobs.lever.co/verkada/ad8e440d-5eec-495f-b5bc-6c9cd36f0561?utm_source=CarbosJobs) | ✅ | August 12, 2023 |
 | The Federal Reserve | A16Z | [Graduate Internship in Data Science](https://rb.wd5.myworkdayjobs.com/FRS/job/Minneapolis-MN/Graduate-Internship-in-Data-Science_R-0000019109-1?utm_source=CarbosJobs) | ❌ | August 12, 2023 |
 | The Federal Reserve | A16Z | [Graduate Internship in Data Science](https://rb.wd5.myworkdayjobs.com/FRS/job/Minneapolis-MN/Graduate-Internship-in-Data-Science_R-0000019108-1?utm_source=CarbosJobs) | ✅ | August 12, 2023 |
-| Wayfair | Kleiner Perkins | [Machine Learning Science – Internship/Working Student in BERLIN (m/f/x)](https://www.wayfair.com/careers/jobs/6853623002?gh_jid=6853623002?utm_source=CarbosJobs) | ❌ | August 11, 2023 |
+| Wayfair | Kleiner Perkins | [Machine Learning Science – Internship/Working Student in BERLIN (m/f/x)](https://www.wayfair.com/careers/jobs/6853623002?gh_jid=6853623002?utm_source=CarbosJobs) | ✅ | August 11, 2023 |
 | Allegion |  | [Summer Intern – Firmware Engineer (Connectivity and Sensing)](https://allegion.wd5.myworkdayjobs.com/careers/job/Indianapolis-IN---Hague-Rd/Summer-Intern---Firmware-Engineer--Connectivity-and-Sensing-_JR26813?utm_source=CarbosJobs) | ❌ | August 11, 2023 |
 | Allegion |  | [Summer Intern – Design Researcher](https://allegion.wd5.myworkdayjobs.com/careers/job/Carmel-IN/Summer-Intern---Design-Researcher_JR26769?utm_source=CarbosJobs) | ✅ | August 11, 2023 |
 | Nvidia | Google Ventures, Sequoia | [NVIDIA 2024 Internships: Artificial Intelligence Engineering Intern](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2024-Internships--Artificial-Intelligence-Engineering-Intern_JR1970080?utm_source=CarbosJobs) | ✅ | August 10, 2023 |
