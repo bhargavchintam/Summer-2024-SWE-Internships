@@ -22,6 +22,10 @@
 
 | Company | Investors | Title | Status | Added On |
 | ------- | ----------| ----- | ------ |--------- |
+| Amazon | Google Ventures, Kleiner Perkins | [2024 Software Dev Engineer Intern](https://www.amazon.jobs/en/teams/internships-for-students?offset=0&result_limit=10&sort=relevant&country%5B%5D=USA&distanceType=Mi&radius=24km&latitude=&longitude=&loc_group_id=&loc_query=&base_query=&city=&country=&region=&county=&query_options=&?utm_source=CarbosJobs) | ✅ | September 09, 2023 |
+| Schweitzer Engineering Laboratories |  | [Electrical Engineering Intern](https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Pullman/Engineering-Intern_2023-12894?utm_source=CarbosJobs) | ✅ | September 08, 2023 |
+| Epic Games | KKR | [Full Stack Web Engineer Intern](https://boards.greenhouse.io/epicgames/jobs/4965730004?utm_source=CarbosJobs) | ✅ | September 08, 2023 |
+| Athena Health | Accel, Founders Fund, Google Ventures, Kleiner Perkins | [2024 Summer Software Engineering Intern](https://athenahealth.wd1.myworkdayjobs.com/External/job/Watertown-MA/XMLNAME-2024-Summer-Software-Engineering-Intern_R8891?utm_source=CarbosJobs) | ✅ | September 08, 2023 |
 | Cboe |  | [Cyber Detection and Response Engineering Intern (Year-long Internship)](https://cboe.wd1.myworkdayjobs.com/External_Career_CBOE/job/Chicago-IL/Cyber-Detection-and-Response-Engineering-Intern--Year-long-Internship-_R-3192?utm_source=CarbosJobs) | ✅ | September 08, 2023 |
 | Whatnot | A16Z, Tiger Global | [Software Engineering Intern, Summer 2024](https://boards.greenhouse.io/whatnot/jobs/4957334004?utm_source=CarbosJobs) | ✅ | September 08, 2023 |
 | Schweitzer Engineering Laboratories |  | [Electrical Engineering Specialist Intern](https://selinc.wd1.myworkdayjobs.com/SEL/job/United-States/Electrical-Engineering-Specialist-Intern_2023-12887?utm_source=CarbosJobs) | ✅ | September 07, 2023 |
@@ -50,7 +54,7 @@
 | Gate.io | Sequoia | [Market research Intern](https://jobs.lever.co/gate.io/cc590402-eb67-4e2b-9c67-308d2473cd4a?utm_source=CarbosJobs) | ✅ | September 06, 2023 |
 | Epic Games | KKR | [Data Software Engineer Intern](https://boards.greenhouse.io/epicgames/jobs/4957105004?utm_source=CarbosJobs) | ✅ | September 06, 2023 |
 | Epic Games | KKR | [Audio Research Intern](https://boards.greenhouse.io/epicgames/jobs/4957205004?utm_source=CarbosJobs) | ✅ | September 06, 2023 |
-| Commonwealth Fusion Systems | Google Ventures | [Mechanical Engineer - Intern/Co-op](https://jobs.lever.co/cfsenergy/750c36d6-0a89-44f2-aa2a-a9cdaf3cfd44?utm_source=CarbosJobs) | ✅ | September 06, 2023 |
+| Commonwealth Fusion Systems | Google Ventures | [Mechanical Engineer - Intern/Co-op](https://jobs.lever.co/cfsenergy/750c36d6-0a89-44f2-aa2a-a9cdaf3cfd44?utm_source=CarbosJobs) | ❌ | September 06, 2023 |
 | Allegion |  | [Summer Intern - Mechanical Engineering](https://allegion.wd5.myworkdayjobs.com/careers/job/Colorado-Springs-CO/Summer-Intern---Engineering_JR27069?utm_source=CarbosJobs) | ✅ | September 06, 2023 |
 | HubSpot | Accel, Google Ventures, Salesforce Ventures | [Hubspot Software Engineer Internship & Placement Program (UK)](https://www.hubspot.com/careers/jobs/5335588?gh_jid=5335588?utm_source=CarbosJobs) | ✅ | September 06, 2023 |
 | HubSpot | Accel, Google Ventures, Salesforce Ventures | [Hubspot Software Engineer Internship & Placement Program (Germany)](https://www.hubspot.com/careers/jobs/5335580?gh_jid=5335580?utm_source=CarbosJobs) | ✅ | September 06, 2023 |
@@ -63,8 +67,8 @@
 | Neuralink | Google Ventures | [Engineering Intern (Neuroengineering)](https://boards.greenhouse.io/neuralink/jobs/5583062003?utm_source=CarbosJobs) | ✅ | September 04, 2023 |
 | RVO Health | Kleiner Perkins, Sequoia | [2024 Early Career Program: Software Engineering Intern](https://boards.greenhouse.io/rvohealth/jobs/4306588005?utm_source=CarbosJobs) | ✅ | September 01, 2023 |
 | RVO Health | Kleiner Perkins, Sequoia | [2024 Early Career Program: Data Analyst Intern](https://boards.greenhouse.io/rvohealth/jobs/4306587005?utm_source=CarbosJobs) | ✅ | September 01, 2023 |
-| SeatGeek | Tiger Global | [Software Engineer - Internship](https://seatgeek.com/jobs/5327968?gh_jid=5327968?utm_source=CarbosJobs) | ✅ | September 01, 2023 |
-| SeatGeek | Tiger Global | [Software Engineer - Internship](https://seatgeek.com/jobs/125938?gh_jid=125938?utm_source=CarbosJobs) | ✅ | September 01, 2023 |
+| SeatGeek | Tiger Global | [Software Engineer - Internship](https://seatgeek.com/jobs/5327968?gh_jid=5327968?utm_source=CarbosJobs) | ❌ | September 01, 2023 |
+| SeatGeek | Tiger Global | [Software Engineer - Internship](https://seatgeek.com/jobs/125938?gh_jid=125938?utm_source=CarbosJobs) | ❌ | September 01, 2023 |
 | Hudl | Accel, Kleiner Perkins, Sequoia | [Data Analyst Intern](https://boards.greenhouse.io/hudl/jobs/4831639?utm_source=CarbosJobs) | ✅ | September 01, 2023 |
 | Ercot | Kleiner Perkins, Sequoia | [Intern - Electrical Engineering (University of Texas)](https://ercot.wd1.myworkdayjobs.com/en-US/ercot_careers/job/Taylor-TX/Intern---Engineering--University-of-Texas-_R1402?utm_source=CarbosJobs) | ✅ | September 01, 2023 |
 | Ercot | Kleiner Perkins, Sequoia | [Intern - Electrical Engineering (Texas A&M)](https://ercot.wd1.myworkdayjobs.com/en-US/ercot_careers/job/Taylor-TX/Intern---Engineering--Texas-A-M-_R1405?utm_source=CarbosJobs) | ✅ | September 01, 2023 |
@@ -114,7 +118,7 @@
 | Epic Games | KKR | [Software Engineer Intern (UI Programming)](https://boards.greenhouse.io/epicgames/jobs/4956964004?utm_source=CarbosJobs) | ✅ | August 28, 2023 |
 | Duolingo | Google Ventures, Kleiner Perkins | [Software Engineer Intern](https://boards.greenhouse.io/duolingo/jobs/6906928002?utm_source=CarbosJobs) | ✅ | August 28, 2023 |
 | Nvidia | Google Ventures, Sequoia | [Governance Analytics and Process Engineering Intern - Summer 2024](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Governance-Analytics-and-Process-Engineering-Intern---Summer-2024_JR1971366-1?utm_source=CarbosJobs) | ❌ | August 25, 2023 |
-| Commonwealth Fusion Systems | Google Ventures | [Design Engineer - Intern/Co-op](https://jobs.lever.co/cfsenergy/750c36d6-0a89-44f2-aa2a-a9cdaf3cfd44?utm_source=CarbosJobs) | ✅ | August 25, 2023 |
+| Commonwealth Fusion Systems | Google Ventures | [Design Engineer - Intern/Co-op](https://jobs.lever.co/cfsenergy/750c36d6-0a89-44f2-aa2a-a9cdaf3cfd44?utm_source=CarbosJobs) | ❌ | August 25, 2023 |
 | Hudl | Accel, Kleiner Perkins, Sequoia | [Software Quality Analyst Intern](https://boards.greenhouse.io/hudl/jobs/5297285?utm_source=CarbosJobs) | ✅ | August 25, 2023 |
 | Chamberlain Group | Kleiner Perkins, Sequoia | [(Intern Conversion) Associate Data Scientist](https://chamberlain.wd1.myworkdayjobs.com/Chamberlain_Group/job/Oak-Brook-IL/XMLNAME--Intern-Conversion--Associate-Data-Scientist_JR26268?utm_source=CarbosJobs) | ❌ | August 25, 2023 |
 | Qualtrics | Accel, Insight Partners, Sequoia | [Software Engineering Intern - Summer 2024 - Reston, Virginia](https://www.qualtrics.com/careers/us/en/job/5317675?gh_jid=5317675?utm_source=CarbosJobs) | ✅ | August 24, 2023 |
@@ -197,7 +201,7 @@
 | Belvedere Trading | Sequoia | [Software Engineer Intern - Summer 2024 Chicago](https://jobs.lever.co/belvederetrading/f63b36b4-a5b6-4697-97cf-2af02a47e9d9?utm_source=CarbosJobs) | ✅ | August 05, 2023 |
 | Belvedere Trading | Sequoia | [Software Engineer Intern - Summer 2024 Boulder](https://jobs.lever.co/belvederetrading/1dfa7e9c-7e30-4a11-a489-bd777f112848?utm_source=CarbosJobs) | ✅ | August 05, 2023 |
 | Belvedere Trading | Sequoia | [Quantitative Researcher Intern - Summer 2024](https://jobs.lever.co/belvederetrading/80ac6b59-f376-42a1-a32d-afefd6233082?utm_source=CarbosJobs) | ✅ | August 05, 2023 |
-| BorgWarner | Kleiner Perkins | [Quality Engineering Intern](https://borgwarner.wd5.myworkdayjobs.com/BorgWarner_Careers/job/Bellwood---Illinois---USA/Intern_R2023-5530?utm_source=CarbosJobs) | ✅ | August 04, 2023 |
+| BorgWarner | Kleiner Perkins | [Quality Engineering Intern](https://borgwarner.wd5.myworkdayjobs.com/BorgWarner_Careers/job/Bellwood---Illinois---USA/Intern_R2023-5530?utm_source=CarbosJobs) | ❌ | August 04, 2023 |
 | Virtu Financial | Goldman Sachs | [Internship - Quantitative Trading](https://boards.greenhouse.io/virtu/jobs/6702651002?utm_source=CarbosJobs) | ✅ | August 03, 2023 |
 | Virtu Financial | Goldman Sachs | [Internship - Quantitative Strategist](https://boards.greenhouse.io/virtu/jobs/6864860002?utm_source=CarbosJobs) | ✅ | August 03, 2023 |
 | Virtu Financial | Goldman Sachs | [Internship - Developer](https://boards.greenhouse.io/virtu/jobs/6771390002?utm_source=CarbosJobs) | ✅ | August 03, 2023 |
@@ -281,15 +285,15 @@
 | Verkada | Google Ventures, Tiger Global, Sequoia | [Technical Support Engineering Intern - Spring 2024](https://jobs.lever.co/verkada/7ccd1de5-19b2-45f5-85df-04dcc87c9f3b?utm_source=CarbosJobs) | ✅ | June 21, 2023 |
 | The Block | A16Z, Sequoia | [Research Intern](https://jobs.lever.co/theblockcrypto/42151f4b-e8eb-4fb1-80dc-c62530ef0870?utm_source=CarbosJobs) | ✅ | June 21, 2023 |
 | The Block | A16Z, Sequoia | [Research Intern - Data](https://jobs.lever.co/theblockcrypto/00ecc02c-b30e-4d1b-a02b-2f400e53e66a?utm_source=CarbosJobs) | ✅ | June 21, 2023 |
-| CertiK | Tiger Global, Sequoia | [Full Stack Internship - Matrix](https://jobs.lever.co/certik/ca67aab6-9b8b-4c2f-ad80-ff5855292f48?utm_source=CarbosJobs) | ❌ | June 21, 2023 |
 | CertiK | Tiger Global, Sequoia | [Research Analyst Intern](https://jobs.lever.co/certik/277fc381-3f3f-491c-879f-be48850e60ff?utm_source=CarbosJobs) | ❌ | June 21, 2023 |
 | CertiK | Tiger Global, Sequoia | [Platform Engineering Intern](https://jobs.lever.co/certik/095fdcff-99e8-408d-bb8a-e638e44d0b40?utm_source=CarbosJobs) | ✅ | June 21, 2023 |
+| CertiK | Tiger Global, Sequoia | [Full Stack Internship - Matrix](https://jobs.lever.co/certik/ca67aab6-9b8b-4c2f-ad80-ff5855292f48?utm_source=CarbosJobs) | ❌ | June 21, 2023 |
+| The Boring Company | Founders Fund, Sequoia | [Integration Engineering Intern](https://jobs.lever.co/boringcompany/1c1ee776-cbf4-4cf0-bfb0-a446ed89ee29?utm_source=CarbosJobs) | ✅ | June 21, 2023 |
 | The Boring Company | Founders Fund, Sequoia | [Civil Engineering Intern](https://jobs.lever.co/boringcompany/f6d53f8a-d4da-4212-8a40-3f724ba07b1f?utm_source=CarbosJobs) | ✅ | June 21, 2023 |
 | The Boring Company | Founders Fund, Sequoia | [Tunnel Engineering Intern](https://jobs.lever.co/boringcompany/f07e7532-a6e0-45c9-8328-c521bb68f105?utm_source=CarbosJobs) | ✅ | June 21, 2023 |
-| The Boring Company | Founders Fund, Sequoia | [Integration Engineering Intern](https://jobs.lever.co/boringcompany/1c1ee776-cbf4-4cf0-bfb0-a446ed89ee29?utm_source=CarbosJobs) | ✅ | June 21, 2023 |
 | Apple | Google Ventures, Kleiner Perkins | [Software Engineering Internships](https://jobs.apple.com/en-us/search?search=internship%20summer&sort=relevance&key=students&location=united-states-usa?utm_source=CarbosJobs) | ✅ | June 21, 2023 |
-| Second Order Effects | Sequoia | [Electrical Engineering Intern (August - December)](https://boards.greenhouse.io/soeffects/jobs/5562693003?utm_source=CarbosJobs) | ❌ | June 21, 2023 |
 | Second Order Effects | Sequoia | [Electrical Engineering Intern (August - December)](https://boards.greenhouse.io/soeffects/jobs/5562680003?utm_source=CarbosJobs) | ❌ | June 21, 2023 |
+| Second Order Effects | Sequoia | [Electrical Engineering Intern (August - December)](https://boards.greenhouse.io/soeffects/jobs/5562693003?utm_source=CarbosJobs) | ❌ | June 21, 2023 |
 | Neuralink | Google Ventures | [Software Engineer Internship](https://boards.greenhouse.io/neuralink/jobs/5552197003?utm_source=CarbosJobs) | ❌ | June 21, 2023 |
 | Neuralink | Google Ventures | [Quality Engineering Internship](https://boards.greenhouse.io/neuralink/jobs/5552854003?utm_source=CarbosJobs) | ❌ | June 21, 2023 |
 | Neuralink | Google Ventures | [Software Engineer Internship](https://boards.greenhouse.io/neuralink/jobs/5285389003?utm_source=CarbosJobs) | ❌ | June 21, 2023 |
